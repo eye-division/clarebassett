@@ -33,11 +33,14 @@ imagecdn:
 
 # Collections Example
 collections:
-    gallery:
+    paintings:
         output: true
-        permalink: /gallery/:path/
+        permalink: /paintings/:path/
         _hide_content: true
-
+    prints:
+        output: true
+        permalink: /prints/:path/
+        _hide_content: true
 
 # Defaults Example
 defaults:

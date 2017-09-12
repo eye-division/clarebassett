@@ -1,0 +1,20 @@
+---
+layout: page
+title: "Prints"
+permalink: /prints/
+---
+<div class="gallery">
+
+{% for printgallery in site.prints %}
+
+     <div class="gallery-box{% cycle '', ' last' %}">
+
+          <a href="{{ printgallery.permalink }}" title="{{ printgallery.title }}">
+	          <img src="{{ printgallery.image_path }}" alt="{{ printgallery.title }}"/>
+	          <h4>{{ printgallery.title }}</h4>
+          </a>
+
+     </div>
+
+{% endfor %}
+</div>
