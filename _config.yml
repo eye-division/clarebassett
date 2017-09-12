@@ -16,7 +16,7 @@ description: Clare Bassett art gallery
 baseurl: ""
 # the base hostname & protocol for your site
 url: "http://www.clarebassett.com"
-logo: "/siteicon.png"
+#logo: "/siteicon.png"
 email: clarebassett@aol.com
 
 # Build settings
