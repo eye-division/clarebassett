@@ -1,8 +1,16 @@
-- title: "Posts"
-  href: "/posts/"
-  
-- title: "Projects"
-  href: "/projects/"
-  
-- title: "About"
-  href: "/about/"
+- title: Home
+  href: /
+- title: Prints
+  href: /gallery/prints/
+- title: Galleries
+  href: /galleries/
+- title: Exhibitions
+  href: /exhibitions/
+- title: Events
+  href: /events/
+- title: Creating a lithograph
+  href: /creating-a-lithograph/
+- title: CV
+  href: /cv/
+- title: Contact
+  href: /contact/

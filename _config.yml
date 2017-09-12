@@ -21,35 +21,36 @@ email: clarebassett@aol.com
 
 # Build settings
 markdown: kramdown
-# paginate: 5
-# paginate_path: "/page:num/"
-# inter_post_navigation: false
-permalink: pretty
+paginate: 5
+paginate_path: "/page:num/"
+inter_post_navigation: false
+permalink: /events/:title
 
 # Image CDN
 imagecdn:
-  #staging: "http://ed-dev.imgix.net"
+  #staging: "http://ed-eyegallery-dev.imgix.net"
   #production: "http://ed.imgix.net"
 
-# Collections
+# Collections Example
 collections:
-#     projects:
-#         output: true
-#         permalink: /projects/:path/
+    gallery:
+        output: true
+        permalink: /gallery/:path/
+        _hide_content: true
 
 
 # Defaults Example
 defaults:
-#     -
-#         scope:
-#             path: ""
-#             type: "projects"
-#         values:
-#             layout: "project"
+    -
+        scope:
+            path: ""
+            type: "gallery"
+        values:
+            layout: "gallery"
 
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "UA-106331626-1"
 
 # Google Recaptcha for contact form
 recaptcha_site_key: 6LdBeisUAAAAAP4AG-EZ6duudsjg5yAMADSdKnKc

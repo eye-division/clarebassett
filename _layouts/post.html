@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<div class="page">
+  <header id="content-header">
+    <section id="page-title">
+      <h1>{{ page.title }}</h1>
+    </section>
+  </header>
+
+  <section id="content">
+    <section class="post-meta">
+      <div class="post-date">{{ page.date | date: "%B %-d, %Y" }}</div>
+    </section>
+
+    <section class="main-content">
+      {{ content }}
+    </section>
+
+
+    {% if page.images[0].image_path %}
+    <aside class="image-gallery">
+      {% for image in page.images %}
+      {% if image.image_path %}
+      <a href="{% include imgpath.html src=image.image_path width=1280 %}" data-lightbox="gallery" data-title="{{ image.description }}">
+        {% include img.html src=image.image_path width=120 height=120 alt=image.description %}
+      </a>
+      {% endif %}
+      {% endfor %}
+    </aside>
+    {% endif %}
+
+  </section>
+
+</div>

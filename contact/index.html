@@ -1,0 +1,45 @@
+---
+layout: page
+title: Contact
+main_image_path:
+---
+
+  <div class="page">
+
+		<div class="editable">
+			<p>Clare Bassett<br />
+			84 Kingston Road<br />
+			Oxford<br />
+			OX2 6RJ</p>
+		</div>
+
+		<form action="/thanks/" method="post" id="contact-form">
+
+      <fieldset>
+
+            <input type="hidden" name="_to" value="clarebassett@aol.com">
+            <input type="hidden" name="_cc" value="a.ward@eyedivision.com">
+            <input type="hidden" name="_subject" value="Web form">
+            <p>
+            <label for="name">Name:</label>
+            <input type="text" name="name">
+            </p>
+            <p>
+            <label for="_replyto">Email:</label>
+            <input type="text" name="_replyto">
+            </p>
+            <p>
+            <label>Message</label>
+            <textarea name="message"></textarea>
+            </p>
+            {% if site.recaptcha_site_key %}
+            <div class="g-recaptcha" data-sitekey="{{ site.recaptcha_site_key }}"></div>
+            {% endif %}
+        <p>
+            <input type="submit" value="Send message">
+            </p>
+      </fieldset>
+
+    </form>
+		<p><span class="required">*</span> required</p>
+	</div>
