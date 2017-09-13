@@ -55,6 +55,18 @@
         //@include omega();
     }
 }
+
+/* featured image on posts / events pages */
+.featured--col {
+    @include media ($tablet) {
+        @include span-columns(4);
+    }
+}
+.with--feature {
+    @include media ($tablet) {
+        @include span-columns(6);
+    }
+}
 /*
  * Lightbox
  */

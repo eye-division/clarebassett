@@ -87,6 +87,10 @@ pre code.hljs {
     font-size: modular-scale(-1);
 }
 
+figcaption {
+    font-style: italic;
+    text-align: center;
+}
 .page-divider {
     $divider-color: $light-gray;
     display: block;

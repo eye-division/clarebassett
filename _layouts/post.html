@@ -4,14 +4,11 @@ layout: default
 <div class="page">
   <header id="content-header">
     <section id="page-title">
-      <h1>{{ page.title }}</h1>
+      <h2>{{ page.title }}</h2>
     </section>
   </header>
 
   <section id="content">
-    <section class="post-meta">
-      <div class="post-date">{{ page.date | date: "%B %-d, %Y" }}</div>
-    </section>
 
     <section class="main-content">
       {{ content }}
@@ -19,15 +16,17 @@ layout: default
 
 
     {% if page.images[0].image_path %}
-    <aside class="image-gallery">
+    <section class="gallery">
       {% for image in page.images %}
-      {% if image.image_path %}
-      <a href="{% include imgpath.html src=image.image_path width=1280 %}" data-lightbox="gallery" data-title="{{ image.description }}">
-        {% include img.html src=image.image_path width=120 height=120 alt=image.description %}
-      </a>
+
+        {% if image.image_path %}
+        <div class="gallery-box {% cycle 'alpha', '', 'last' %}">
+        {% include img.html src=image.image_path alt=image.description %}
+        <caption>{{ image.image_title }}</caption>
+      </div>
       {% endif %}
       {% endfor %}
-    </aside>
+    </section>
     {% endif %}
 
   </section>
