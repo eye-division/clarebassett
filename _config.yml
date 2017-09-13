@@ -29,7 +29,7 @@ permalink: /events/:title
 # Image CDN
 imagecdn:
   staging: "https://ed-clarebassett-dev.imgix.net"
-  #production: "http://ed.imgix.net"
+  production: "https://ed.clarebasset.imgix.net"
 
 # Collections Example
 collections:
