@@ -50,7 +50,18 @@ defaults:
             type: "gallery"
         values:
             layout: "gallery"
-
+    -
+        scope:
+            path: ""
+            type: "prints"
+        values:
+            layout: "gallery"
+    -
+        scope:
+            path: ""
+            type: "paintings"
+        values:
+            layout: "gallery"
 
 # Google analytics
 ga_tracking_id: "UA-106331626-1"

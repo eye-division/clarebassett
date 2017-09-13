@@ -32,7 +32,7 @@ images:
   - image_path: /assets/images/4880993f3f312.jpg
     image_title: Bridesmaid
     image_description: "Oil on Canvas"
-  - image_path: /assets/48809e7a533d6.jpg
+  - image_path: /assets/images/48809e7a533d6.jpg
     image_title: Boat Race
     image_description: "Oil on Canvas"
   - image_path: /assets/images/4880a1ca4404e.jpg

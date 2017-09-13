@@ -10,7 +10,7 @@ permalink: /prints/
      <div class="gallery-box{% cycle '', ' last' %}">
 
           <a href="{{ printgallery.permalink }}" title="{{ printgallery.title }}">
-	           {% include img.html src=printgallery.main_image_path width=200 height=200 fit=crop alt=printgallery.title %}
+	           {% include img.html src=printgallery.main_image_path alt=printgallery.title %}
 	          <h4>{{ printgallery.title }}</h4>
           </a>
 
