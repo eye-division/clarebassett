@@ -22,7 +22,7 @@ email: clarebassett@aol.com
 # Build settings
 markdown: kramdown
 paginate: 5
-paginate_path: "/page:num/"
+paginate_path: "/events/page:num/"
 inter_post_navigation: false
 permalink: /events/:title
 

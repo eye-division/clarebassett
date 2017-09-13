@@ -2,68 +2,68 @@
 layout: post
 title: DEC Dance and Drawing
 date: 2010-04-07 15:21:00
-main_image_path: /assets/4c3c29998317c.jpg
+main_image_path: /assets/images/4c3c29998317c.jpg
 video_embed:
 images:
-  - image_path: /assets/4c3c29998317c.jpg
+  - image_path: /assets/images/4c3c29998317c.jpg
     description:
-  - image_path: /assets/4c3c29886a614.jpg
+  - image_path: /assets/images/4c3c29886a614.jpg
     description:
-  - image_path: /assets/4c3c29cde202d.jpg
+  - image_path: /assets/images/4c3c29cde202d.jpg
     description:
-  - image_path: /assets/4c3c295b9a778.jpg
+  - image_path: /assets/images/4c3c295b9a778.jpg
     description:
-  - image_path: /assets/4c3c29d85a121.jpg
+  - image_path: /assets/images/4c3c29d85a121.jpg
     description:
-  - image_path: /assets/4c3c29e7e0a42.jpg
+  - image_path: /assets/images/4c3c29e7e0a42.jpg
     description:
-  - image_path: /assets/4c3c29f12c87f.jpg
+  - image_path: /assets/images/4c3c29f12c87f.jpg
     description:
-  - image_path: /assets/4c3c29fb2238f.jpg
+  - image_path: /assets/images/4c3c29fb2238f.jpg
     description:
-  - image_path: /assets/4c3c2a0438edd.jpg
+  - image_path: /assets/images/4c3c2a0438edd.jpg
     description:
-  - image_path: /assets/4c3c2a0ee48bb.jpg
+  - image_path: /assets/images/4c3c2a0ee48bb.jpg
     description:
-  - image_path: /assets/4c3c2a1bca76e.jpg
+  - image_path: /assets/images/4c3c2a1bca76e.jpg
     description:
-  - image_path: /assets/4c3c2a294850e.jpg
+  - image_path: /assets/images/4c3c2a294850e.jpg
     description:
-  - image_path: /assets/4c3c2a35939fe.jpg
+  - image_path: /assets/images/4c3c2a35939fe.jpg
     description:
-  - image_path: /assets/4c3c2a45ad7ce.jpg
+  - image_path: /assets/images/4c3c2a45ad7ce.jpg
     description:
-  - image_path: /assets/4c3c2a6e39694.jpg
+  - image_path: /assets/images/4c3c2a6e39694.jpg
     description:
-  - image_path: /assets/4e452d89f23d9.jpg
+  - image_path: /assets/images/4e452d89f23d9.jpg
     description: Dance Turquoise
-  - image_path: /assets/4e443a71b247e.jpg
+  - image_path: /assets/images/4e443a71b247e.jpg
     description: Three Dancers Folded
-  - image_path: /assets/4e452dc2a87fd.jpg
+  - image_path: /assets/images/4e452dc2a87fd.jpg
     description: Dance Turquoise-Terracotta
-  - image_path: /assets/4e452ecbb1d5e.jpg
+  - image_path: /assets/images/4e452ecbb1d5e.jpg
     description: Dance Strip of Red
-  - image_path: /assets/4e452f8ceafb5.jpg
+  - image_path: /assets/images/4e452f8ceafb5.jpg
     description: Dance Lots of Figures
-  - image_path: /assets/4e452f019cf52.jpg
+  - image_path: /assets/images/4e452f019cf52.jpg
     description: Dance Three
-  - image_path: /assets/4e45328a88e40.jpg
+  - image_path: /assets/images/4e45328a88e40.jpg
     description: Dance Bit of Green
-  - image_path: /assets/4e452ffbe8181.jpg
+  - image_path: /assets/images/4e452ffbe8181.jpg
     description: Dance Red-Yellow
-  - image_path: /assets/4e452f5ee89df.jpg
+  - image_path: /assets/images/4e452f5ee89df.jpg
     description: Dance Black & Yellow
-  - image_path: /assets/4e453532a39a3.jpg
+  - image_path: /assets/images/4e453532a39a3.jpg
     description: Dance Group
-  - image_path: /assets/4e45365617496.jpg
+  - image_path: /assets/images/4e45365617496.jpg
     description: Dance Black Line
-  - image_path: /assets/4e4535b5cd7ef.jpg
+  - image_path: /assets/images/4e4535b5cd7ef.jpg
     description: Dance Grey
-  - image_path: /assets/4e45362278df2.jpg
+  - image_path: /assets/images/4e45362278df2.jpg
     description: Black & White Dancer
-  - image_path: /assets/4e4535e6af4ec.jpg
+  - image_path: /assets/images/4e4535e6af4ec.jpg
     description: Dance Two Turquoise
-  - image_path: /assets/4e45380cdf0df.jpg
+  - image_path: /assets/images/4e45380cdf0df.jpg
     description: Dance Black & White2
 ---
 
