@@ -20,6 +20,9 @@ layout: default
       <div class="gallery-box {% cycle 'alpha', '', 'last' %}">
           {% include img.html src=image.image_path alt=image.image_description %}
         <caption>{{ image.image_title }}</caption>
+        {% if image.image_description %}
+          <p>{{ image.image_description }}</p>
+        {% endif %}
       </div>
       {% endif %}
     {% endfor %}
