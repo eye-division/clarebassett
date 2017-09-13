@@ -1,9 +1,9 @@
 // Google Fonts
-//@import url(//fonts.googleapis.com/css?family=Roboto+Slab:400,700,300|Roboto:400,700,300|Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300);
+@import url(//fonts.googleapis.com/css?family=Lato:400,700,300);
 
 // Typography
-$base-font-family: "Georgia", "Helvetica Neue", "Helvetica", "verdana", "Arial", sans-serif; // $helvetica;
-$heading-font-family: "Georgia", "Helvetica Neue", "Helvetica", "verdana", "Arial", sans-serif; // $base-font-family;
+$base-font-family: "Lato", "Helvetica Neue", "Helvetica", "verdana", "Arial", sans-serif; // $helvetica;
+$heading-font-family: "Lato", "Helvetica Neue", "Helvetica", "verdana", "Arial", sans-serif; // $base-font-family;
 
 // Font Sizes
 $base-font-size: $em-base; // 16px
@@ -39,6 +39,11 @@ $gray: #7f8c8d;				// Asbestos
 $dark-gray: #333 !default;
 // Even more colors
 $bc-red: #bc0000;
+
+// accessible link colours
+$aaa-link: #3344dd;
+$aaa-hover: #b50010;
+$aaa-visited: #804180;
 
 /* SASS / Social Media Brand Colors */
 $twitter: #00aced;
