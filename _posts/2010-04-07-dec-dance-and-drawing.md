@@ -3,7 +3,6 @@ layout: post
 title: DEC Dance and Drawing
 date: 2010-04-07 15:21:00
 main_image_path: /assets/images/4c3c29998317c.jpg
-video_embed:
 images:
   - image_path: /assets/images/4c3c29998317c.jpg
     description:

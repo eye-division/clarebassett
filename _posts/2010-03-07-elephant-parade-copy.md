@@ -3,7 +3,6 @@ layout: post
 title: Elephant Parade
 date: 2010-03-07 15:21:00
 main_image_path: /assets/images/4c3c2ddb095eb.jpg
-video_embed:
 images:
   - image_path: /assets/images/4c3c2ddb095eb.jpg
     description:
