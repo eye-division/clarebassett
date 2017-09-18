@@ -64,6 +64,12 @@ images:
     description: Dance Two Turquoise
   - image_path: /assets/images/4e45380cdf0df.jpg
     description: Dance Black & White2
+_options:
+  main_image_path:
+    width: 1200
+    height: 1200
+    resize_style: "contain"
+    mime_type: "image/jpeg"
 ---
 
 

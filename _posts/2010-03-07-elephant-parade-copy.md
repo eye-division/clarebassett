@@ -16,6 +16,12 @@ images:
     description:
   - image_path: /assets/images/4c3c2e19b9854.jpg
     description:
+_options:
+  main_image_path:
+    width: 1200
+    height: 1200
+    resize_style: "contain"
+    mime_type: "image/jpeg"
 ---
 
 The Elephant Parade took place in London during June and July 2010. It was organised by the charity Elephant Family in order to raise awareness of the plight of the Asian Elephant and money to establish safe 'corridors' for the elephants. 

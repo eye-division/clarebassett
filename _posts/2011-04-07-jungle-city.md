@@ -22,6 +22,12 @@ images:
   - image_path: /assets/images/4e45424f607af.jpg
     description: "Crocodile 5
     Medium: Painted Fibreglass Sculpture"
+_options:
+  main_image_path:
+    width: 1200
+    height: 1200
+    resize_style: "contain"
+    mime_type: "image/jpeg"
 ---
 
 The charity Elephant Family has a new project this summer, Jungle CIty. It is based on the same format as last year's Elephant Parade in London. Wild animals, tigers, orangutangs, crocodiles among others will be out and about in Edinburgh this summer, starting out in The Royal Botanic Gardens. They will then be auctioned in September to raise money for the protections of these animals.

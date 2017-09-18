@@ -5,13 +5,13 @@ permalink: /paintings/
 ---
 <div class="gallery">
 
-{% for paintingsgallery in site.paintings %}
+{% for gallery in site.paintings %}
 
      <div class="gallery-box{% cycle '', ' last' %}">
 
-          <a href="{{ paintingsgallery.permalink }}" title="{{ paintingsgallery.title }}">
-	          {% include img.html src=paintingsgallery.main_image_path alt=paintingsgallery.title %}
-	          <h4>{{ paintingsgallery.title }}</h4>
+          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
+	          {% include img.html src=gallery.main_image_path alt=gallery.title %}
+	          <h4>{{ gallery.title }}</h4>
           </a>
 
      </div>
