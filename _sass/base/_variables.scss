@@ -1,9 +1,11 @@
 // Google Fonts
-@import url(//fonts.googleapis.com/css?family=Lato:400,700,300);
+@import url(//fonts.googleapis.com/css?family=Lato|Oxygen|Quattrocento+Sans);
 
 // Typography
-$base-font-family: "Lato", "Helvetica Neue", "Helvetica", "verdana", "Arial", sans-serif; // $helvetica;
-$heading-font-family: "Lato", "Helvetica Neue", "Helvetica", "verdana", "Arial", sans-serif; // $base-font-family;
+$base-font-family: "Lato", "Arial", sans-serif; // $helvetica;
+$heading-font-family: "Quattrocento Sans", "Helvetica Neue", "Helvetica", "verdana", "Arial", sans-serif; // $base-font-family;
+
+$menu-font-family: ('Oxygen', 'Arial', sans-serif);
 
 // Font Sizes
 $base-font-size: $em-base; // 16px
@@ -92,7 +94,7 @@ $desktop: $b1;
 // navigation
 $navigation-padding: 1em;
 $navigation-background: $kbgray;
-$navigation-color: $black;
+$navigation-color: $dark-gray;
 $navigation-color-hover: $medium-gray;
 $navigation-height: 30px;
 $navigation-active-link-color: transparentize(white, 0.5);

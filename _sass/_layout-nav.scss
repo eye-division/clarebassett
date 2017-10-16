@@ -3,6 +3,7 @@
 */
 
 .navigation {
+    font-family: $menu-font-family;
     margin: 0;
     @include outer-container;
     padding: 0 1em;
@@ -26,6 +27,7 @@
         font-size: 1.25em;
     }
     h1 {
+        text-align: center;
         margin-bottom: 0;
     }
     &:active,
@@ -96,7 +98,7 @@ li.nav-link {
         color: $navigation-color;
         display: inline-block;
         @include media ($tablet) {
-            padding-right: 1.5em;
+            padding-right: 0.5em;
         }
         &:hover {
             color: $navigation-color-hover;

@@ -1,18 +1,23 @@
-- title: Home
+- title: 'HOME'
   href: /
-- title: Prints
+
+- title: 'PRINTS'
   href: /prints/
-- title: Paintings
+
+- title: 'PAINTINGS'
   href: /paintings/
-- title: Galleries
+
+- title: 'NEWS'
   href: /galleries/
-- title: Exhibitions
-  href: /exhibitions/
-- title: Events
+
+- title: 'EVENTS'
   href: /events/
-- title: Creating a lithograph
+
+- title: 'JEWELLERY'
   href: /creating-a-lithograph/
-- title: CV
+
+- title: 'CV / STATEMENT'
   href: /cv/
-- title: Contact
+
+- title: CONTACT
   href: /contact/
