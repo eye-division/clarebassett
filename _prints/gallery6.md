@@ -14,6 +14,9 @@ images:
   - image_path: /upload/Rise & Fall.JPG
     image_title: Rise and Fall
     image_description:
+  - image_path: /upload/Headwind.jpg
+    image_title: Headwind
+    image_description:
 _options:
   image_path:
     width: 1200
