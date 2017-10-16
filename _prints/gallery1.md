@@ -7,7 +7,7 @@ main_image_path: /assets/images/4cb46c5951c1d.jpg
 images:
   - image_path: /assets/images/4cb46c5951c1d.jpg
     image_title:
-    image_description: 'Seven Silent Witnesses,  lithograph, 44cmx 52cm'
+    image_description: Seven Silent Witnesses     42cm x 54cm
   - image_path: /assets/images/478f25a7d1f1a.jpg
     image_title: 'Sleeping Partners, 46cm x 60cm'
     image_description:
