@@ -10,7 +10,7 @@ main_image_path: /assets/images/4cb41ff71d141.jpg
 images:
   - image_path: /assets/images/4cb41ff71d141.jpg
     image_title: Mother Bird 70cm x 70 cm
-    image_description: s
+    image_description:
   - image_path: /assets/images/4cb420fe20399.jpg
     image_title: Sleepwalker 60cm x 60cm
     image_description:
