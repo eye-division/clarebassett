@@ -1,29 +1,30 @@
 ---
 title: Screenprints
-description_markdown: |
-    
-_gallery_date: 2016-05-01T00:00:00.000Z
+description_markdown:
+_gallery_date: 2016-05-01 00:00:00
 permalink: /prints/screenprints/
 main_image_path: /assets/images/49ce9626ece17.jpg
 images:
   - image_path: /assets/images/49ce9626ece17.jpg
     image_title: Butterflies
-    image_description: "2009
-    Medium: hand-coloured screenprint"
+    image_description:
   - image_path: /assets/images/4cb46f3342ca1.jpg
     image_title: Beetle Collection
-    image_description: "Screenprint"
+    image_description:
+  - image_path: /upload/Rise & Fall.JPG
+    image_title: Rise and Fall
+    image_description:
 _options:
   image_path:
     width: 1200
     height: 1200
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
   main_image_path:
     width: 1200
     height: 800
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
 _comments:
   title: Gallery title
   permalink: Be careful editing this
