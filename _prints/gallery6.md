@@ -11,11 +11,11 @@ images:
   - image_path: /upload/Headwind.jpg
     image_title: Headwind
     image_description:
-  - image_path: /upload/Rise & Fall.JPG
-    image_title: Rise and Fall
+  - image_path: /upload/Mother.JPG
+    image_title: Mother I
     image_description:
-  - image_path: /upload/Headwind.jpg
-    image_title: Headwind
+  - image_path: /upload/MotherStripe.JPG
+    image_title: Mother II
     image_description:
 _options:
   image_path:
