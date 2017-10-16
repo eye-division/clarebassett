@@ -7,32 +7,27 @@ _options:
   main_image_path:
     width: 1200
     height: 1200
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
 ---
 
   <div class="page">
 
-		<div class="editable">
-			<p>Clare Bassett<br />
-			84 Kingston Road<br />
-			Oxford<br />
-			OX2 6RJ</p>
-		</div>
+		<div class="editable"><p>Clare Bassett</p><p>108 Mountjoy House</p><p>Barbican</p><p>London EC2Y 8BP</p></div>
 
 	<form action="/thanks/" method="post" id="contact-form">
       <fieldset>
         <legend>Send a message</legend>
-            <input type="hidden" name="_to" value="clarebassett@aol.com">
-            <input type="hidden" name="_cc" value="a.ward@eyedivision.com">
-            <input type="hidden" name="_subject" value="Web form">
+            <input type="hidden" name="_to" value="clarebassett@aol.com" />
+            <input type="hidden" name="_cc" value="a.ward@eyedivision.com" />
+            <input type="hidden" name="_subject" value="Web form" />
             <p>
             <label for="name">Name:</label>
-            <input type="text" name="name">
+            <input type="text" name="name" />
             </p>
             <p>
             <label for="_replyto">Email:</label>
-            <input type="text" name="_replyto">
+            <input type="text" name="_replyto" />
             </p>
             <p>
             <label>Message</label>
@@ -42,7 +37,7 @@ _options:
             <div class="g-recaptcha" data-sitekey="{{ site.recaptcha_site_key }}"></div>
             {% endif %}
         <p>
-            <input type="submit" value="Send message">
+            <input type="submit" value="Send message" />
             </p>
       </fieldset>
 
