@@ -6,7 +6,7 @@ permalink: /prints/smaller-lithographs/
 main_image_path: /assets/images/4721d639c4478.jpg
 images:
   - image_path: /assets/images/4721d639c4478.jpg
-    image_title: Woman in Red               16cm x 15.5cm
+    image_title: Woman in Red     16cm x 15.5cm
     image_description:
   - image_path: /assets/images/4721d676939a3.jpg
     image_title: 'Woman in Blue, 16cm x 15.5cm'
