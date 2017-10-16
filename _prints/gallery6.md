@@ -17,6 +17,9 @@ images:
   - image_path: /upload/MotherStripe.JPG
     image_title: Mother II
     image_description:
+  - image_path: /upload/Motherbug1.jpg
+    image_title: Mother III
+    image_description:
 _options:
   image_path:
     width: 1200
