@@ -14,6 +14,9 @@ images:
   - image_path: /assets/images/4cb46c5951c1d.jpg
     image_title:
     image_description: Seven Silent Witnesses     42cm x 54cm
+  - image_path: /upload/Lookouts 2017A.jpg
+    image_title:
+    image_description:
   - image_path: /assets/images/48806525529d8.jpg
     image_title: Chasing Birds
     image_description:
