@@ -59,6 +59,9 @@ images:
   - image_path: /assets/images/4880dd701a009.jpg
     image_title: 'Birds, 40cm x 60cm'
     image_description:
+  - image_path: /upload/Women in State 2017A.jpg
+    image_title: Women in a State of Confusion
+    image_description:
 _options:
   image_path:
     width: 1200
