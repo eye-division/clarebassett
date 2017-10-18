@@ -3,18 +3,27 @@
 
 - title: 'PRINTS'
   href: /prints/
+  subcategories:
+    - subtitle: "lithographs"
+      subhref: "/prints/lithographs/"
+    - subtitle: "screenprints"
+      subhref: "/prints/screenprints/"
+    - subtitle: "smaller works"
+      subhref: "/prints/smaller-works/"
+    - subtitle: "creating a print"
+      subhref: "/prints/creating-a-print/"
 
 - title: 'PAINTINGS'
   href: /paintings/
 
 - title: 'NEWS'
-  href: /galleries/
+  href: /news/
 
 - title: 'EVENTS'
   href: /events/
 
 - title: 'JEWELLERY'
-  href: /creating-a-lithograph/
+  href: /jewellery/
 
 - title: 'CV / STATEMENT'
   href: /cv/
