@@ -3,12 +3,12 @@
 // -----------------------------------------------------------------------------
 
 .featured--col {
-    @include media ($tablet) {
+    @include media ($medium) {
         @include span-columns(4);
     }
 }
 .with--feature {
-    @include media ($tablet) {
+    @include media ($medium) {
         @include span-columns(6);
     }
 }

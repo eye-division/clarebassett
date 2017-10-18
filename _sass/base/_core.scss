@@ -71,7 +71,7 @@ figcaption {
 
 .half {
     @include span-columns(12);
-    @include media ($mobile) {
+    @include media ($small) {
         @include span-columns(6);
     }
 }
@@ -88,7 +88,7 @@ figcaption {
   background-color: $white;
   .home, .page {
 
-      @include media ($tablet) {
+      @include media ($medium) {
           padding: 1em 0;
       }
   }

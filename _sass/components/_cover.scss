@@ -25,7 +25,7 @@
     &.has-cover {
         background-color: rgba(0,0,0,0.2);
         padding: 0 0 6em  !important;
-        @include media($tablet) {
+        @include media($medium) {
             padding: 0 1em 9em !important;
         }
         .site-header {
