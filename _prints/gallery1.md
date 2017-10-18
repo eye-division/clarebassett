@@ -29,6 +29,12 @@ images:
   - image_path: /assets/images/487f663c68b81.jpg
     image_title: 'Mother Love, 55cm x 60cm'
     image_description:
+  - image_path: /assets/images/4881237549143.jpg
+    image_title: 'Hear No Evil, sold out'
+    image_description:
+  - image_path: /assets/images/48812345353e3.jpg
+    image_title: Necklace
+    image_description:
   - image_path: /assets/images/48805b7a0dab2.jpg
     image_title: Walkies
     image_description:
@@ -46,12 +52,6 @@ images:
     image_description:
   - image_path: /assets/images/48806a6a2730c.jpg
     image_title: 'Over Her Shoulder, 54cm x 42cm'
-    image_description:
-  - image_path: /assets/images/48812345353e3.jpg
-    image_title: Necklace
-    image_description:
-  - image_path: /assets/images/4881237549143.jpg
-    image_title: 'Hear No Evil, sold out'
     image_description:
   - image_path: /assets/images/4880dd3487bc0.jpg
     image_title: Eve
