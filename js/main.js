@@ -16,12 +16,16 @@
         }
       });
     });
-    $(function() {
-      $('#menu__button').on('click touchstart', function(e) {
-        e.preventDefault();
-        $('#menu__container').toggleClass('is-active').removeClass('is-hovered');
+    // Drop down v2 - Bourbon
+    $(".dropdown-button").click(function() {
+      var $button, $menu;
+      $button = $(this);
+      $menu = $button.siblings(".dropdown-menu");
+      $menu.toggleClass("show-menu");
+      $menu.children("li").click(function() {
+        $menu.removeClass("show-menu");
+        $button.html($(this).html());
       });
-
     });
     // Lightbox2 options
     lightbox.option({

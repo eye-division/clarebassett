@@ -1,0 +1,28 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the header
+// -----------------------------------------------------------------------------
+
+/// logo
+.logo {
+
+    //float: left;
+    //height: 6em;
+
+    span {
+        font-size: 1.25em;
+    }
+    h1 {
+        text-align: center;
+        margin-bottom: 0;
+    }
+    &:active,
+    &:focus,
+    &:hover {
+        text-decoration: none;
+        //color: darken($link-color, 10%);
+    }
+    &:active,
+    &:focus {
+        outline: none;
+    }
+}
