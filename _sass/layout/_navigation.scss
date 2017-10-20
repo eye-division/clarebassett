@@ -93,7 +93,7 @@ li.nav-link {
         color: $navigation-color;
         display: inline-block;
         @include media ($medium) {
-            padding-right: 1.5em;
+            padding-right: 1em;
         }
         &:hover {
             color: $navigation-color-hover;
