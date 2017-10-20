@@ -3,17 +3,23 @@
 // -----------------------------------------------------------------------------
 
 /// logo
+
 .logo {
+    float: left; // on small only
 
-    //float: left;
     //height: 6em;
-
+    @include media ($medium) {
+        float: none;
+    }
     span {
         font-size: 1.25em;
     }
     h1 {
-        text-align: center;
         margin-bottom: 0;
+        text-align: left;
+        @include media ($medium) {
+            text-align: center;
+        }
     }
     &:active,
     &:focus,

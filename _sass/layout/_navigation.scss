@@ -4,8 +4,8 @@
 .navigation {
     font-family: $menu-font-family;
     margin: 0;
-    @include outer-container;
-    padding: 0 1em;
+    //@include outer-container;
+    padding: 0.5em 1em;
     background-color: $white;
 }
 // Nav menu
@@ -19,10 +19,10 @@
 /// small view
 .navigation-menu-button {
     display: block;
+    text-align: right;
     float: right;
     margin: 0;
     font-size: 1.5em;
-    padding-top: 0.5em;
     color: $navigation-color;
     text-decoration: none;
     .icon-menu {
@@ -51,9 +51,8 @@
 
 nav {
     float: none;
-    padding: 1.25em 0;
+    padding-top: 1em;
     @include media ($medium) {
-        float: right;
         line-height: 1.5em;
     }
 }
@@ -124,6 +123,9 @@ li.active {
   position: relative;
   text-align: center;
 }
+.nav-link.dropdown-container {
+  padding-right: $dropdown-padding;
+}
 
 .dropdown-description {
   background: $dropdown-background;
@@ -167,10 +169,10 @@ li.active {
   content: "\25BE";
   display: block;
   position: absolute;
-  right: $dropdown-padding;
+  right: 0;
   top: $dropdown-arrow-top-distance;
   @include media($large-screen) {
-    right: $dropdown-padding / 2;
+    right: 0;
   }
 }
 

@@ -24,7 +24,7 @@ markdown: kramdown
 paginate: 5
 paginate_path: "/events/page:num/"
 inter_post_navigation: false
-permalink: /events/:title
+permalink: pretty   # /events/:title
 
 # Image CDN
 imagecdn:

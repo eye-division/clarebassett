@@ -81,34 +81,28 @@ figcaption {
 
 ///  Body
 
-.page-content {
-
+.page { // this is where we set the grid container
   @include outer-container;
   padding: 1em;
   background-color: $white;
-  .home, .page {
 
-      @include media ($medium) {
-          padding: 1em 0;
-      }
-  }
-  .site-header-container {
-      color: $white;
-      text-shadow: 0 2px 1px rgba(0,0,0,0.33);
-      background-color: $highlight-color;
-      .site-header{
-          .title {
-              font-size: modular-scale(6);
-          }
-          .subtitle {
-              font-style: italic;
-              font-size: modular-scale(1);
-          }
-      }
-  }
-  img {
-      display: block;
-      margin: auto;
-      max-width: 100%;
-  }
+}
+.site-header-container {
+    color: $white;
+    text-shadow: 0 2px 1px rgba(0,0,0,0.33);
+    background-color: $highlight-color;
+    .site-header{
+        .title {
+            font-size: modular-scale(6);
+        }
+        .subtitle {
+            font-style: italic;
+            font-size: modular-scale(1);
+        }
+    }
+}
+img {
+    display: block;
+    margin: auto;
+    max-width: 100%;
 }
