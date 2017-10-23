@@ -51,6 +51,12 @@ images:
   - image_path: /upload/Acrobat 1.JPG
     image_title: 'Acrobat I, oil on canvas'
     image_description:
+  - image_path: /upload/Acrobat2.JPG
+    image_title: 'Acrobat II, oil on canvas, sold'
+    image_description:
+  - image_path: /upload/3 Women in a Boat2.jpg
+    image_title: In a Boat
+    image_description:
 _options:
   image_path:
     width: 1200
