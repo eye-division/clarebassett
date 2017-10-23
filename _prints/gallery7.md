@@ -19,7 +19,7 @@ images:
     image_title: Silkscreen Press
     image_description:
   - image_path: /images/Screenprint.JPG
-    image_title:
+    image_title: Print coming off screen press
     image_description:
 _options:
   image_path:
