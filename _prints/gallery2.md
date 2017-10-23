@@ -3,7 +3,7 @@ title: Smaller works
 description_markdown:
 _gallery_date: 2016-05-01 00:00:00
 permalink: /prints/smaller-works/
-main_image_path: /assets/images/4721d639c4478.jpg
+main_image_path:
 images:
   - image_path: /assets/images/4721d639c4478.jpg
     image_title: Woman in Red     16cm x 15.5cm
