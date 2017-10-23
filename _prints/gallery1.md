@@ -3,7 +3,7 @@ title: Lithographs
 description_markdown:
 _gallery_date: 2016-05-01 00:00:00
 permalink: /prints/lithographs/
-main_image_path: /assets/images/4cb46c5951c1d.jpg
+main_image_path:
 images:
   - image_path: /upload/Women in State 2017A.jpg
     image_title: Women in a State of Confusion
