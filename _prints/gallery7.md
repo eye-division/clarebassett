@@ -21,6 +21,9 @@ images:
   - image_path: /images/Screenprint.JPG
     image_title: Print coming off screen press
     image_description:
+  - image_path: /upload/studio4.JPG
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
