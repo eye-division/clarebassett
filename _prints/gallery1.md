@@ -12,10 +12,10 @@ images:
     image_title: 'Sleeping Partners, 46cm x 60cm'
     image_description:
   - image_path: /assets/images/4cb46c5951c1d.jpg
-    image_title:
-    image_description: Seven Silent Witnesses     42cm x 54cm
+    image_title: 'Seven Silent Witnesses,    42cmx 54cm'
+    image_description:
   - image_path: /upload/Lookouts 2017A.jpg
-    image_title:
+    image_title: Lookouts
     image_description:
   - image_path: /assets/images/48806525529d8.jpg
     image_title: Chasing Birds
