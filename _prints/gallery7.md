@@ -16,7 +16,7 @@ permalink: /prints/creating-a-print/
 main_image_path: /studio3.JPG
 images:
   - image_path: /images/screen2.JPG
-    image_title:
+    image_title: Silkscreen Press
     image_description:
   - image_path: /images/Screenprint.JPG
     image_title:
