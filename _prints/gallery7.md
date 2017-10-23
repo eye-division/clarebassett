@@ -11,6 +11,14 @@ description_markdown: >-
   me to produce a fine textured, very tonal mark, unique to this process.<br>I
   print off editions of 20 and then hand-colour each print individually, as you
   might tint a photograph.
+
+
+  A screenprint Is created by pushing printing ink through a fine mesh where
+  areas have been blocked by a resin, preventing the ink from marking the paper,
+  except where you want the image. I draw my picture onto a grainy acetate,
+  which is then placed on an exposure unit which fastened the drawn image to the
+  meshed screen. The texture on the acetate is carried through to the printed
+  piece.
 _gallery_date: 2016-05-01 00:00:00
 permalink: /prints/creating-a-print/
 main_image_path: /studio3.JPG
