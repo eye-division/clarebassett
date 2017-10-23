@@ -22,7 +22,7 @@ images:
     image_title: Print coming off screen press
     image_description:
   - image_path: /upload/studio4.JPG
-    image_title:
+    image_title: The artist's table
     image_description:
 _options:
   image_path:
