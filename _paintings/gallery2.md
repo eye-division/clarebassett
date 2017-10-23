@@ -1,11 +1,11 @@
 ---
-title: Paintings on Canvas
+title: Dance
 description_markdown: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime voluptate,
   dicta ex incidunt harum id vitae itaque alias voluptates pariatur! Aliquid
   expedita rerum autem vel est pariatur, quibusdam consectetur, aliquam!
 _gallery_date: 2016-05-01 00:00:00
-permalink: /paintings/paintings-on-canvas/
+permalink: /paintings/dance/
 main_image_path: /assets/images/4cb41ff71d141.jpg
 images:
   - image_path: /assets/images/4cb41ff71d141.jpg

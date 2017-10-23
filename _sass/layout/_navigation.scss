@@ -189,9 +189,10 @@ li.active {
   padding: 0;
   position: absolute;
   right: 0;
+  text-align: center;
   top: $dropdown-distance-from-menu;
   transition: all 0.2s ease-in-out;
-  width: 228px;
+  //width: 228px;
   z-index: 99999;
 
   &::before {
@@ -201,9 +202,12 @@ li.active {
     font-size: 1.4em;
     pointer-events: none;
     text-shadow: 0 -2px 2px transparentize(black, 0.7);
-    top: -0.7em - $dropdown-padding / 2;
+    top: -1.2em;
+    @include media($medium) {
+      top: -0.9em;
+    }
     @include media($large-screen) {
-      right: 1em;
+      right: 0; // 1em
       top: -0.8em;
     }
   }
@@ -214,6 +218,9 @@ li.active {
   color: $dropdown-color;
   list-style: none;
   padding: $dropdown-padding / 2;
+  a {
+    padding-right: 0;
+  }
 }
 
 .dropdown-menu li:hover {

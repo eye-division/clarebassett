@@ -15,6 +15,11 @@
 
 - title: 'PAINTINGS'
   href: /paintings/
+  subcategories:
+    - subtitle: "figures"
+      subhref: "/paintings/figures/"
+    - subtitle: "dance"
+      subhref: "/paintings/dance/"
 
 - title: 'NEWS'
   href: /news/

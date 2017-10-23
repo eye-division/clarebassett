@@ -5,13 +5,20 @@ permalink: /prints/
 ---
 <div class="gallery">
 
-{% for printgallery in site.prints %}
+      {% if page.main_image_path %}
+
+        <figure class="">
+          {% include img.html src=page.main_image_path alt=page.title %}
+        </figure>
+      {% endif %}
+
+{% for gallery in site.prints %}
 
      <div class="gallery-box{% cycle '', ' last' %}">
 
-          <a href="{{ printgallery.permalink }}" title="{{ printgallery.title }}">
-	           {% include img.html src=printgallery.main_image_path alt=printgallery.title %}
-	          <h4>{{ printgallery.title }}</h4>
+          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
+	           {% include img.html src=gallery.main_image_path width=1200 alt=gallery.title %}
+	          <h4>{{ gallery.title }}</h4>
           </a>
 
      </div>

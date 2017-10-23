@@ -1,9 +1,9 @@
 ---
-title: Paintings on Gesso
+title: Figures
 description_markdown: |
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime voluptate, dicta ex incidunt harum id vitae itaque alias voluptates pariatur! Aliquid expedita rerum autem vel est pariatur, quibusdam consectetur, aliquam!
 _gallery_date: 2016-05-01T00:00:00.000Z
-permalink: /paintings/paintings-on-gesso/
+permalink: /paintings/figures/
 main_image_path: /assets/images/4880888935c11.jpg
 images:
   - image_path: /assets/images/4880888935c11.jpg
