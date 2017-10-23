@@ -23,6 +23,21 @@ images:
   - image_path: /upload/Walkers2.jpg
     image_title: Walkers sold
     image_description:
+  - image_path: /images/Blue Bird1.jpg
+    image_title: Blue Bird
+    image_description:
+  - image_path: /upload/Flower Clare Bassett.jpg
+    image_title: Flower
+    image_description:
+  - image_path: /upload/Journey.jpg
+    image_title: Journey
+    image_description:
+  - image_path: /upload/Oranges.JPG
+    image_title: Oranges
+    image_description:
+  - image_path: /upload/Brown dress.JPG
+    image_title: Brown Dress sold
+    image_description:
 _options:
   image_path:
     width: 1200
