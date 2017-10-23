@@ -1,12 +1,13 @@
 ---
 title: Figures
 description_markdown: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime voluptate,
-  dicta ex incidunt harum id vitae itaque alias voluptates pariatur! Aliquid
-  expedita rerum autem vel est pariatur, quibusdam consectetur, aliquam!
+  Although originally a printmaker, Clare has also produced many painting over
+  the years. Working in paint offers many freedoms, which print doesn't allow,
+  or at least makes difficult. Work on a larger scale is possible and a broader
+  palette of colour is available.
 _gallery_date: 2016-05-01 00:00:00
 permalink: /paintings/figures/
-main_image_path: /assets/images/4880888935c11.jpg
+main_image_path:
 images:
   - image_path: /upload/Mother Bird.JPG
     image_title: 'Mother Bird, oil on canvas'
