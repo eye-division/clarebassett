@@ -6,13 +6,13 @@ description_markdown: >-
   expedita rerum autem vel est pariatur, quibusdam consectetur, aliquam!
 _gallery_date: 2016-05-01 00:00:00
 permalink: /paintings/dance/
-main_image_path: /assets/images/4cb41ff71d141.jpg
+main_image_path:
 images:
-  - image_path: /assets/images/4cb41ff71d141.jpg
-    image_title: Mother Bird 70cm x 70 cm
+  - image_path: /upload/084th.jpg
+    image_title: Working live
     image_description:
-  - image_path: /assets/images/4cb420fe20399.jpg
-    image_title: Sleepwalker 60cm x 60cm
+  - image_path: /upload/pas de deux.JPG
+    image_title: Pas de Deux
     image_description:
   - image_path: /assets/images/4cb4215a84481.jpg
     image_title: Sleeping Girl 60cm x 60cm sold
@@ -22,6 +22,9 @@ images:
     image_description:
   - image_path: /assets/images/4cb424070ab3d.jpg
     image_title: Acrobat II 90cm x 25cm sold
+    image_description:
+  - image_path: /assets/images/4cb45489704a5.jpg
+    image_title: Resting Girl 30cm x 60cm
     image_description:
   - image_path:
     image_title:
@@ -35,13 +38,10 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4cb45489704a5.jpg
-    image_title: Resting Girl 30cm x 60cm
-    image_description:
-  - image_path: /upload/Autumn.JPG
+  - image_path:
     image_title: Autumn 60cm x 60cm
     image_description:
-  - image_path: /upload/Walkers2.jpg
+  - image_path:
     image_title: Walkers sold
     image_description:
 _options:
