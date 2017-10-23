@@ -18,7 +18,7 @@ images:
   - image_path: /images/screen2.JPG
     image_title:
     image_description:
-  - image_path:
+  - image_path: /images/Screenprint.JPG
     image_title:
     image_description:
 _options:
