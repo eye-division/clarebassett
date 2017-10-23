@@ -15,10 +15,11 @@ description_markdown: >-
 
   A screenprint Is created by pushing printing ink through a fine mesh where
   areas have been blocked by a resin, preventing the ink from marking the paper,
-  except where you want the image. I draw my picture onto a grainy acetate,
-  which is then placed on an exposure unit which fastened the drawn image to the
-  meshed screen. The texture on the acetate is carried through to the printed
-  piece.
+  except where you want the image. My initial drawing goes onto a sheet of
+  grainy acetate, which is then placed on a screen and placed in an exposure
+  unit. When exposed the drawn image is transferred to the meshed screen. The
+  texture on the acetate, which is picked up in the drawing is carried through
+  to the printed piece. Each pisture is hand-coloured once the ink is dry.
 _gallery_date: 2016-05-01 00:00:00
 permalink: /prints/creating-a-print/
 main_image_path: /studio3.JPG
