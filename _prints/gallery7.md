@@ -16,7 +16,7 @@ permalink: /prints/creating-a-print/
 main_image_path: /studio3.JPG
 images:
   - image_path:
-    image_title: Escape Artist I 14cm x 14cm
+    image_title:
     image_description:
 _options:
   image_path:
