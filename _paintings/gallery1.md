@@ -45,6 +45,12 @@ images:
   - image_path: /upload/sleepwalker.JPG
     image_title: 'Sleepwalker, oil on canvas'
     image_description:
+  - image_path: /upload/Sleeping.JPG
+    image_title: 'Sleeping, oil on canvas, sold'
+    image_description:
+  - image_path: /upload/Acrobat 1.JPG
+    image_title: 'Acrobat I, oil on canvas'
+    image_description:
 _options:
   image_path:
     width: 1200
