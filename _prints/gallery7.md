@@ -15,7 +15,7 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /prints/creating-a-print/
 main_image_path: /studio3.JPG
 images:
-  - image_path: /assets/images/4880c26c9d3e8.jpg
+  - image_path:
     image_title: Escape Artist I 14cm x 14cm
     image_description:
 _options:
