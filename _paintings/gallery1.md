@@ -8,14 +8,14 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /paintings/figures/
 main_image_path: /assets/images/4880888935c11.jpg
 images:
+  - image_path: /upload/Mother Bird.JPG
+    image_title: 'Mother Bird, oil on canvas'
+    image_description:
   - image_path: /assets/images/4880888935c11.jpg
     image_title: 'Good Intentions, oil on gesso, sold'
     image_description:
   - image_path: /assets/images/48808e5205c22.jpg
     image_title: 'Undecided, oil on gesso, sold'
-    image_description:
-  - image_path: /assets/images/48809558d9431.jpg
-    image_title: 'Chattering Classes, oil on gesso,60cm x 60cm'
     image_description:
   - image_path: /upload/Autumn.JPG
     image_title: 'Autumn, oil on canvas'
@@ -24,10 +24,13 @@ images:
     image_title: 'Walkers, oil on canvas, sold'
     image_description:
   - image_path: /images/Blue Bird1.jpg
-    image_title: 'Blue Bird, oil on camvas'
+    image_title: 'Blue Bird, oil on canvas'
     image_description:
   - image_path: /upload/Flower Clare Bassett.jpg
     image_title: 'Flower, oil on canvas'
+    image_description:
+  - image_path: /assets/images/48809558d9431.jpg
+    image_title: 'Chattering Classes, oil on gesso,60cm x 60cm'
     image_description:
   - image_path: /upload/Journey.jpg
     image_title: 'Journey, oil on canvas'
@@ -38,8 +41,8 @@ images:
   - image_path: /upload/Brown dress.JPG
     image_title: 'Brown Dress, oil on canvas, sold'
     image_description:
-  - image_path: /upload/Mother Bird.JPG
-    image_title: 'Mother Bird, oil on canvas'
+  - image_path: /upload/sleepwalker.JPG
+    image_title: 'Sleepwalker, oil on canvas'
     image_description:
 _options:
   image_path:
