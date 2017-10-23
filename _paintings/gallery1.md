@@ -9,34 +9,37 @@ permalink: /paintings/figures/
 main_image_path: /assets/images/4880888935c11.jpg
 images:
   - image_path: /assets/images/4880888935c11.jpg
-    image_title: Good Intentions
-    image_description: '20 x 30 cm Medium: oil in gesso'
+    image_title: 'Good Intentions, oil on gesso, sold'
+    image_description:
   - image_path: /assets/images/48808e5205c22.jpg
-    image_title: Undecided
-    image_description: '30 cm x 30cm Medium: oil on gesso'
+    image_title: 'Undecided, oil on gesso, sold'
+    image_description:
   - image_path: /assets/images/48809558d9431.jpg
-    image_title: Chattering Classes
-    image_description: '60cm x 60cm Medium: oil on gesso'
+    image_title: 'Chattering Classes, oil on gesso,60cm x 60cm'
+    image_description:
   - image_path: /upload/Autumn.JPG
-    image_title: Autumn
+    image_title: 'Autumn, oil on canvas'
     image_description:
   - image_path: /upload/Walkers2.jpg
-    image_title: Walkers sold
+    image_title: 'Walkers, oil on canvas, sold'
     image_description:
   - image_path: /images/Blue Bird1.jpg
-    image_title: Blue Bird
+    image_title: 'Blue Bird, oil on camvas'
     image_description:
   - image_path: /upload/Flower Clare Bassett.jpg
-    image_title: Flower
+    image_title: 'Flower, oil on canvas'
     image_description:
   - image_path: /upload/Journey.jpg
-    image_title: Journey
+    image_title: 'Journey, oil on canvas'
     image_description:
   - image_path: /upload/Oranges.JPG
-    image_title: Oranges
+    image_title: 'Oranges, oil on canvas'
     image_description:
   - image_path: /upload/Brown dress.JPG
-    image_title: Brown Dress sold
+    image_title: 'Brown Dress, oil on canvas, sold'
+    image_description:
+  - image_path: /upload/Mother Bird.JPG
+    image_title: 'Mother Bird, oil on canvas'
     image_description:
 _options:
   image_path:
