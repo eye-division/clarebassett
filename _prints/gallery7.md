@@ -15,6 +15,9 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /prints/creating-a-print/
 main_image_path: /studio3.JPG
 images:
+  - image_path: /images/screen2.JPG
+    image_title:
+    image_description:
   - image_path:
     image_title:
     image_description:
