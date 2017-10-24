@@ -57,6 +57,9 @@ images:
   - image_path: /upload/3 Women in a Boat2.jpg
     image_title: In a Boat
     image_description:
+  - image_path: /upload/At Rest.JPG
+    image_title: Resting
+    image_description:
 _options:
   image_path:
     width: 1200
