@@ -11,17 +11,17 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /paintings/dance/
 main_image_path:
 images:
+  - image_path: /upload/Dance North Wall.JPG
+    image_title: Exhibition North Wall Oxford
+    image_description:
   - image_path: /upload/Dance Lots of figuresweb.jpg
-    image_title: Many Dancers
+    image_title: 'Many Dancers, sold'
     image_description:
   - image_path: /upload/pas de deux.JPG
-    image_title: Pas de Deux
+    image_title: 'Pas de Deux, ink on Chinese paper'
     image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
+  - image_path: /upload/Shadow Dance.JPG
+    image_title: Shadow Dance
     image_description:
   - image_path:
     image_title:
