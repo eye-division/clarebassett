@@ -28,7 +28,7 @@ description_markdown: >-
   grainy acetate, which is then placed on a screen and placed in an exposure
   unit. When exposed the drawn image is transferred to the meshed screen. The
   texture on the acetate, which is picked up in the drawing is carried through
-  to the printed piece. Each pisture is hand-coloured once the ink is dry.
+  to the printed piece. Each picture is hand-coloured once the ink is dry.
 _gallery_date: 2016-05-01 00:00:00
 permalink: /prints/creating-a-print/
 main_image_path: /studio3.JPG
