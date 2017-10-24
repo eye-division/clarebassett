@@ -13,6 +13,12 @@ description_markdown: >-
   might tint a photograph.
 
 
+  &nbsp;
+
+
+  &nbsp;
+
+
   A screenprint Is created by pushing printing ink through a fine mesh where
   areas have been blocked by a resin, preventing the ink from marking the paper,
   except where you want the image. My initial drawing goes onto a sheet of
