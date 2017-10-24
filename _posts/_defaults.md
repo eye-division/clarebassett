@@ -2,6 +2,7 @@
 layout: post
 title:
 date:
+category: events
 main_image_path:
 images:
   - image_path:
