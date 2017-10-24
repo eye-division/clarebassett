@@ -9,7 +9,7 @@ permalink: /paintings/dance/
 main_image_path:
 images:
   - image_path: /upload/Dance Lots of figuresweb.jpg
-    image_title:
+    image_title: Many Dancers
     image_description:
   - image_path: /upload/pas de deux.JPG
     image_title: Pas de Deux
