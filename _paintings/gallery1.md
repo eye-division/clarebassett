@@ -1,10 +1,10 @@
 ---
 title: Figures
 description_markdown: >-
-  Although originally a printmaker, Clare has also produced many painting over
+  Although originally a printmaker, Clare has also produced many paintings over
   the years. Working in paint offers many freedoms, which print doesn't allow,
-  or at least makes difficult. Work on a larger scale is possible and a broader
-  palette of colour is available.
+  or at least makes more difficult. Work on a larger scale is possible and a
+  broader palette of colour is available.
 _gallery_date: 2016-05-01 00:00:00
 permalink: /paintings/figures/
 main_image_path:
