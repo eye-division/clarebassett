@@ -1,7 +1,7 @@
 ---
 title: Creating a print
 description_markdown: >-
-  ### LITHOGRAPHY
+  ### **Lithography**
 
 
   Lithography is a magical form of printing. The picture is drawn onto a flat
@@ -19,7 +19,7 @@ description_markdown: >-
   &nbsp;
 
 
-  ### SCREENPRINTING
+  ### Screenprinting
 
 
   A screenprint Is created by pushing printing ink through a fine mesh where
