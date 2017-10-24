@@ -1,7 +1,7 @@
 ---
 title: Dance
 description_markdown: >-
-  Drawing from live dance is a unique experience. There is no point where you
+  Drawing from live dance is a unique experience. There is no moment where you
   can carefully study the figures, as they are constantly on the move. So you
   must focus differently. It is actually drawing the dance, not the dancer. You
   must respond to the music, the shapes and the forms. The marks you make are
