@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "News"
+category: news
 main_image_path: /Sage.jpg
 image_caption: Newcastle Art Fair 2012
 _options:
@@ -13,13 +14,37 @@ _options:
 
 
 
-	<div class="intro editable"><p><strong>Affordable Art Fair Battersea </strong>2018<br />Battersea Park<br />London<br />March, 2018<br /><a href="http://ww.affordableartfair.com">www.affordableartfair.com</a></p><p><strong>SVA Open Studios</strong><br />Hawthorn's Cottage<br />Lower Littleworth<br />Amberley<br />Gloucestershire GL5 5AN<br />May, 2018<br /><a href="http://www.sva.org.uk">www.sva.org.uk</a></p><p><strong>Solo Exhibition</strong></p><p><strong>Cupola Gallery</strong></p><p>Sheffield</p><p>June/July 2018</p></div>
+	<div class="intro editable">
 
 
-
-	<div class="editor-link">
-     <!-- Editor Link to site status -->
-     <a href="cloudcannon:status">Link to Site Status and Recent Activity</a>
   </div>
 
+<section class="blog">
 
+      {% for post in site.posts  %}
+        {% if post.categories contains 'news' %}
+          <a href="{{ post.url | prepend: site.baseurl }}"><h4>{{ post.title }}</h4></a>
+
+          {% if post.main_image_path %}
+
+            <figure class="">
+              <a href="{{ post.url | prepend: site.baseurl }}">
+              {% assign alt_text = post.title %}
+              {% if post.image_caption %} {% assign alt_text = post.image_caption %} {% endif %}
+              {% include img.html src=post.main_image_path alt=alt_text %}
+              </a>
+            </figure>
+          {% endif %}
+
+          {% if post.main_image_path %}<p class="with--feature">{% else %}{% endif %}
+
+          {{ post.content | markdownify }}
+
+          <div class="post-meta">
+            <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
+            <!-- Editor Link -->
+            <a href="cloudcannon:collections/{{ post.path }}" class="editor-link">Edit post</a>
+          </div>
+        {% endif %}
+      {% endfor %}
+  </section>
