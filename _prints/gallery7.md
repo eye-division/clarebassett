@@ -1,6 +1,9 @@
 ---
 title: Creating a print
 description_markdown: >-
+  ### LITHOGRAPHY
+
+
   Lithography is a magical form of printing. The picture is drawn onto a flat
   piece of limestone. Chemicals are applied to the drawing causing a reaction to
   take place between the calcium in the limestone and the grease in the
@@ -16,7 +19,7 @@ description_markdown: >-
   &nbsp;
 
 
-  &nbsp;
+  ### SCREENPRINTING
 
 
   A screenprint Is created by pushing printing ink through a fine mesh where
