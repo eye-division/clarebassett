@@ -1,9 +1,12 @@
 ---
 title: Dance
 description_markdown: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime voluptate,
-  dicta ex incidunt harum id vitae itaque alias voluptates pariatur! Aliquid
-  expedita rerum autem vel est pariatur, quibusdam consectetur, aliquam!
+  Drawing from live dance is a unique experience. There is no point where you
+  can carefully study the figures, as they are constantly on the move. So you
+  must focus differently. It is actually drawing the dance, not the dancer. You
+  must respond to the music, the shapes and the forms. The marks you make are
+  gestural and emotive and solely responsive. Hopefully the finished image will
+  convey a sense of the dance to the viewer.
 _gallery_date: 2016-05-01 00:00:00
 permalink: /paintings/dance/
 main_image_path:
