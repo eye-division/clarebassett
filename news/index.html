@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "News"
+title: News
 category: news
 main_image_path: /Sage.jpg
-image_caption: Newcastle Art Fair 2012
+image_caption: 'Sage Gateshead, Newcastle Art Fair 2012'
 _options:
   main_image_path:
     width: 1200
@@ -27,7 +27,7 @@ _options:
 
           {% if post.main_image_path %}
 
-            <figure class="">
+            <figure>
               <a href="{{ post.url | prepend: site.baseurl }}">
               {% assign alt_text = post.title %}
               {% if post.image_caption %} {% assign alt_text = post.image_caption %} {% endif %}
@@ -47,4 +47,4 @@ _options:
           </div>
         {% endif %}
       {% endfor %}
-  </section>
+  </p></section>
