@@ -3,10 +3,10 @@ layout: post
 title: Past News
 date:
 category: news
-main_image_path:
+main_image_path: /upload/Cambridge.JPG
 images:
-  - image_path:
-    description:
+  - image_path: /upload/Royal College.JPG
+    description: Royal College
 _options:
   image_path:
     width: 1200
@@ -25,3 +25,6 @@ _comments:
 categories:
   - news
 ---
+
+
+Some past exhibitions
