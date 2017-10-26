@@ -8,10 +8,10 @@ images:
   - image_path: /upload/Women in State 2017A.jpg
     image_title: Women in a State of Confusion
     image_description:
-  - image_path:
-    image_title:
-    image_description:
   - image_path: /upload/Sleeping PartnersiP.JPG
+    image_title: Sleeping Partners
+    image_description:
+  - image_path:
     image_title:
     image_description:
   - image_path: /assets/images/4cb46c5951c1d.jpg
