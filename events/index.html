@@ -15,7 +15,8 @@ _options:
 
   <section class="blog">
 
-      {% for post in site.posts limit: 4 %}
+      {% for post in site.posts  %}
+        {% if post.categories contains 'events' %}
         <a href="{{ post.url | prepend: site.baseurl }}"><h4>{{ post.title }}</h4></a>
 
         {% if post.main_image_path %}
@@ -37,6 +38,6 @@ _options:
           <!-- Editor Link -->
           <a href="cloudcannon:collections/{{ post.path }}" class="editor-link">Edit post</a>
         </div>
-
+        {% endif %}
       {% endfor %}
   </section>
