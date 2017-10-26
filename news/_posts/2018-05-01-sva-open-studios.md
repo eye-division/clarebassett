@@ -4,6 +4,7 @@ title: SVA Open Studios
 date: 2018-05-01 15:21:00
 category: news
 main_image_path:
+image_caption:
 images:
   - image_path:
     description:

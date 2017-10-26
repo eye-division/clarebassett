@@ -4,6 +4,7 @@ description_markdown:
 _gallery_date: 2016-05-01 00:00:00
 permalink: /prints/screenprints/
 main_image_path: /assets/images/49ce9626ece17.jpg
+image_caption:
 images:
   - image_path: /upload/Rise & Fall.JPG
     image_title: Rise and Fall

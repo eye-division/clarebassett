@@ -5,6 +5,7 @@ description_markdown: |
 _gallery_date: 2016-05-01T00:00:00.000Z
 permalink: /prints/landscape-lithographs/
 main_image_path: /assets/images/4880afef4e702.jpg
+image_caption:
 images:
   - image_path: /assets/images/4880afef4e702.jpg
     image_title: The Queue

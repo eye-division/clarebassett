@@ -4,6 +4,7 @@ title: Solo Exhibition 2018
 date: 2018-06-01 15:21:00
 category: news
 main_image_path:
+image_caption:
 images:
   - image_path:
     description:

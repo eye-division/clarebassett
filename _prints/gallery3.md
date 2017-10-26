@@ -5,6 +5,7 @@ description_markdown: |
 _gallery_date: 2016-05-01T00:00:00.000Z
 permalink: /prints/black-and-white-lithographs/
 main_image_path: /assets/images/487f594e7c45e.jpg
+image_caption:
 images:
   - image_path: /assets/images/487f594e7c45e.jpg
     image_title: Permanence I

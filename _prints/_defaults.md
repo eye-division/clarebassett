@@ -4,6 +4,7 @@ description_markdown:
 _gallery_date: 
 permalink:
 main_image_path:
+image_caption:
 images:
   - image_path:
     image_title:

@@ -4,6 +4,7 @@ title: Jungle City
 date: 2011-04-07 15:21:00
 category: events
 main_image_path: /assets/images/4e4541a0287c1.jpg
+image_caption:
 images:
   - image_path: /assets/images/4e4541a0287c1.jpg
     description: 'Crocodile 1 Medium: Painted Fibreglass Sculpture'

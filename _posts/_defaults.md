@@ -4,6 +4,7 @@ title:
 date:
 category: events
 main_image_path:
+image_caption:
 images:
   - image_path:
     description:

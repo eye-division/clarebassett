@@ -4,6 +4,7 @@ description_markdown:
 _gallery_date: 2016-05-01 00:00:00
 permalink: /prints/sets/
 main_image_path: /assets/images/4880c26c9d3e8.jpg
+image_caption:
 images:
   - image_path: /assets/images/4880c26c9d3e8.jpg
     image_title: Escape Artist I 14cm x 14cm

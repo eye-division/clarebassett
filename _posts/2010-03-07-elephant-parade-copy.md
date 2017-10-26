@@ -4,6 +4,7 @@ title: Elephant Parade
 date: 2010-03-07 15:21:00
 category: events
 main_image_path: /assets/images/4c3c2ddb095eb.jpg
+image_caption:
 images:
   - image_path: /assets/images/4c3c2ddb095eb.jpg
     description:
