@@ -11,11 +11,17 @@ images:
   - image_path: /assets/images/478f25a7d1f1a.jpg
     image_title: 'Sleeping Partners, 46cm x 60cm'
     image_description:
+  - image_path: /upload/Sleeping PartnersiP.JPG
+    image_title:
+    image_description:
   - image_path: /assets/images/4cb46c5951c1d.jpg
     image_title: 'Seven Silent Witnesses,    42cmx 54cm'
     image_description:
   - image_path: /upload/Lookouts 2017A.jpg
     image_title: Lookouts
+    image_description:
+  - image_path: /assets/images/48806a3b35be8.jpg
+    image_title: 'Hide and Seek,  51cm x 42cm'
     image_description:
   - image_path: /assets/images/48806525529d8.jpg
     image_title: Chasing Birds
@@ -52,9 +58,6 @@ images:
     image_description:
   - image_path: /assets/images/4880551b7cd19.jpg
     image_title: Piggyback
-    image_description:
-  - image_path: /assets/images/48806a3b35be8.jpg
-    image_title: 'Hide and Seek,  51cm x 42cm'
     image_description:
   - image_path: /assets/images/48806a6a2730c.jpg
     image_title: 'Over Her Shoulder, 54cm x 42cm'
