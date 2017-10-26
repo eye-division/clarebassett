@@ -4,13 +4,12 @@ description_markdown:
 _gallery_date: 2016-05-01 00:00:00
 permalink: /prints/lithographs/
 main_image_path:
-image_caption:
 images:
   - image_path: /upload/Women in State 2017A.jpg
     image_title: Women in a State of Confusion
     image_description:
-  - image_path: /assets/images/478f25a7d1f1a.jpg
-    image_title: 'Sleeping Partners, 46cm x 60cm'
+  - image_path:
+    image_title:
     image_description:
   - image_path: /upload/Sleeping PartnersiP.JPG
     image_title:
