@@ -3,7 +3,7 @@ title: Screenprints
 description_markdown:
 _gallery_date: 2016-05-01 00:00:00
 permalink: /prints/screenprints/
-main_image_path: /assets/images/49ce9626ece17.jpg
+main_image_path:
 image_caption:
 images:
   - image_path: /upload/Rise & Fall.JPG
@@ -20,6 +20,15 @@ images:
     image_description:
   - image_path: /upload/Motherbug1.jpg
     image_title: Mother III
+    image_description:
+  - image_path: /upload/Block Mother 2017iP.jpg
+    image_title:
+    image_description:
+  - image_path: /upload/Brides to BeiP.JPG
+    image_title:
+    image_description:
+  - image_path: /upload/Ascension.JPG
+    image_title:
     image_description:
 _options:
   image_path:
