@@ -20,23 +20,11 @@ images:
   - image_path: /upload/ReflectingiP.JPG
     image_title: Reflecting
     image_description:
-  - image_path: /assets/images/48806a3b35be8.jpg
-    image_title: 'Hide and Seek,  51cm x 42cm'
-    image_description:
-  - image_path: /assets/images/48806525529d8.jpg
-    image_title: Chasing Birds
-    image_description:
-  - image_path: /assets/images/4cb46c5951c1d.jpg
-    image_title: 'Seven Silent Witnesses,    42cmx 54cm'
-    image_description:
   - image_path: /upload/MothersiP.JPG
     image_title: Mothers
     image_description:
   - image_path: /upload/Family Tree iP.JPG
     image_title: Runaways
-    image_description:
-  - image_path: /upload/The ArkiP.jpg
-    image_title:
     image_description:
   - image_path: /upload/WalkiesiP.JPG
     image_title: Walkies
@@ -44,8 +32,20 @@ images:
   - image_path: /upload/Three Wise GirlsiP.JPG
     image_title: Three Wise Girls
     image_description:
+  - image_path: /upload/The ArkiP.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/48806525529d8.jpg
+    image_title: Chasing Birds
+    image_description:
+  - image_path: /assets/images/4cb46c5951c1d.jpg
+    image_title: 'Seven Silent Witnesses,    42cmx 54cm'
+    image_description:
   - image_path: /upload/The RunawaysiP.JPG
     image_title: The Runaways
+    image_description:
+  - image_path: /assets/images/48806a3b35be8.jpg
+    image_title: 'Hide and Seek,  51cm x 42cm'
     image_description:
   - image_path: /assets/images/4881237549143.jpg
     image_title: 'Hear No Evil, sold out'
