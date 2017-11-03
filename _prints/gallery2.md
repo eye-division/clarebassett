@@ -28,10 +28,10 @@ images:
     image_title: Looking for Mr Right
     image_description:
   - image_path: /uploads/Storm Chasers.JPG
-    image_title: 'Dancing Queen, 30cm x 15cm'
+    image_title: Storm Chasers
     image_description:
   - image_path: /uploads/AstrologersA.jpg
-    image_title: 'Girls, 35cm x 17cm'
+    image_title: Astrologers
     image_description:
   - image_path: /upload/MaidensA.jpg
     image_title: Maidens Trying Out their Balloons
@@ -40,7 +40,7 @@ images:
     image_title: Blue Fan
     image_description:
   - image_path: /upload/Re Fan A.jpg
-    image_title:
+    image_title: Red Fan
     image_description:
   - image_path: /assets/images/472648905a6c9.jpg
     image_title: Fallen Woman 21cm x 20cm
@@ -52,21 +52,21 @@ images:
     image_title: 'Juggling Babies, 30cm x 21cm'
     image_description:
   - image_path: /upload/Breaking out dotsA.jpg
-    image_title:
+    image_title: Breaking Out/ Dots
     image_description:
   - image_path: /upload/CirclesA.jpg
-    image_title:
+    image_title: Breaking Out/ Circles
     image_description:
   - image_path: /upload/DaisiesA.jpg
-    image_title:
+    image_title: Breaking Out/ Daisies
     image_description:
   - image_path: /upload/DiamondsA.jpg
-    image_title:
+    image_title: Breaking Out/ Diamonds
     image_description:
   - image_path: /upload/TriangleA.jpg
-    image_title:
+    image_title: Breaking Out/ Triangles
     image_description:
-  - image_path: /upload/Stripes.JPG
+  - image_path:
     image_title:
     image_description:
 _options:
