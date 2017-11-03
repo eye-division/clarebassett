@@ -51,6 +51,24 @@ images:
   - image_path: /assets/images/4880a96a5e4a1.jpg
     image_title: 'Juggling Babies, 30cm x 21cm'
     image_description:
+  - image_path: /upload/Breaking out dotsA.jpg
+    image_title:
+    image_description:
+  - image_path: /upload/CirclesA.jpg
+    image_title:
+    image_description:
+  - image_path: /upload/DaisiesA.jpg
+    image_title:
+    image_description:
+  - image_path: /upload/DiamondsA.jpg
+    image_title:
+    image_description:
+  - image_path: /upload/TriangleA.jpg
+    image_title:
+    image_description:
+  - image_path: /upload/Stripes.JPG
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
