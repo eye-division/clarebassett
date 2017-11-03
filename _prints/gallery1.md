@@ -12,13 +12,10 @@ images:
     image_title: Sleeping Partners
     image_description:
   - image_path: /uploads/Lost BookiP.JPG
-    image_title:
+    image_title: Lost Book
     image_description:
   - image_path: /assets/images/4cb46c5951c1d.jpg
     image_title: 'Seven Silent Witnesses,    42cmx 54cm'
-    image_description:
-  - image_path:
-    image_title: Lookouts
     image_description:
   - image_path: /assets/images/48806a3b35be8.jpg
     image_title: 'Hide and Seek,  51cm x 42cm'
@@ -26,47 +23,50 @@ images:
   - image_path: /assets/images/48806525529d8.jpg
     image_title: Chasing Birds
     image_description:
+  - image_path: /upload/Over Her ShoulderiP.JPG
+    image_title: Over Her Shoulder
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
   - image_path:
     image_title: Runaways
-    image_description:
-  - image_path:
-    image_title: 'Three Sisters, 50cm x 65cm'
-    image_description:
-  - image_path:
-    image_title: Evasion Tactics
-    image_description:
-  - image_path:
-    image_title: Rush Hour
-    image_description:
-  - image_path:
-    image_title: 'Mother Love, 55cm x 60cm'
     image_description:
   - image_path: /assets/images/4881237549143.jpg
     image_title: 'Hear No Evil, sold out'
     image_description:
   - image_path:
-    image_title: Necklace
+    image_title:
     image_description:
   - image_path:
-    image_title: Walkies
+    image_title:
     image_description:
   - image_path:
-    image_title: What do we do now?
+    image_title:
     image_description:
   - image_path:
-    image_title: Waiting Patiently
+    image_title:
     image_description:
   - image_path:
-    image_title: Piggyback
+    image_title:
     image_description:
   - image_path:
-    image_title: 'Over Her Shoulder, 54cm x 42cm'
+    image_title: '?'
     image_description:
   - image_path:
-    image_title: Eve
+    image_title:
     image_description:
   - image_path:
-    image_title: 'Birds, 40cm x 60cm'
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
     image_description:
 _options:
   image_path:
