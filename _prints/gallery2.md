@@ -30,16 +30,16 @@ images:
   - image_path: /uploads/Reclining Womn2017iP.JPG
     image_title: Reclining Woman
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /upload/Looking for MrA.jpg
+    image_title: Looking for Mr Right
     image_description:
-  - image_path: /assets/images/4721fe6cc9a28.jpg
+  - image_path: /uploads/Storm Chasers.JPG
     image_title: 'Dancing Queen, 30cm x 15cm'
     image_description:
-  - image_path: /assets/images/472634da2e7cd.jpg
+  - image_path: /uploads/AstrologersA.jpg
     image_title: 'Girls, 35cm x 17cm'
     image_description:
-  - image_path: /assets/images/4721fe9423b88.jpg
+  - image_path:
     image_title: 'Magician, 32.5cm x 13cm'
     image_description:
   - image_path:
