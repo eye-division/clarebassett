@@ -9,6 +9,9 @@ images:
   - image_path: /assets/images/4721d639c4478.jpg
     image_title: Woman in Red     16cm x 15.5cm
     image_description:
+  - image_path: /upload/Book Club 2017iP.jpg
+    image_title: Book Club
+    image_description:
   - image_path: /assets/images/4721d676939a3.jpg
     image_title: 'Woman in Blue, 16cm x 15.5cm'
     image_description:
@@ -24,14 +27,11 @@ images:
   - image_path: /assets/images/4726470860cd0.jpg
     image_title: 'Woman on the Ball, 20.5cm x 20cm'
     image_description:
-  - image_path: /assets/images/47220d11478b2.jpg
-    image_title: 'Family Tree, 58cm x 29cm'
+  - image_path: /uploads/Reclining Womn2017iP.JPG
+    image_title: Reclining Woman
     image_description:
-  - image_path: /assets/images/47220d563df05.jpg
-    image_title: 'Social Climbing, 51cm x 20cm'
-    image_description:
-  - image_path: /assets/images/47220d7a0fa52.jpg
-    image_title: 'The Ark, 60cm x 30cm'
+  - image_path:
+    image_title:
     image_description:
   - image_path: /assets/images/4721fe6cc9a28.jpg
     image_title: 'Dancing Queen, 30cm x 15cm'
@@ -42,14 +42,14 @@ images:
   - image_path: /assets/images/4721fe9423b88.jpg
     image_title: 'Magician, 32.5cm x 13cm'
     image_description:
-  - image_path: /assets/images/4880a93e1eb91.jpg
-    image_title: 'Tea Dance, 34cm x 25cm'
+  - image_path:
+    image_title:
     image_description:
   - image_path: /assets/images/4880a96a5e4a1.jpg
     image_title: 'Juggling Babies, 30cm x 21cm'
     image_description:
-  - image_path: /assets/images/4880a8dd40aee.jpg
-    image_title: Maidens Hanging onto their Balloons
+  - image_path:
+    image_title:
     image_description:
 _options:
   image_path:
