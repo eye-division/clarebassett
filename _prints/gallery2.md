@@ -9,16 +9,16 @@ images:
   - image_path: /upload/Book Club 2017iP.jpg
     image_title: Book Club
     image_description:
-  - image_path: /assets/images/4721d639c4478.jpg
-    image_title: Woman in Red     16cm x 15.5cm
+  - image_path: /SistersA.jpg
+    image_title: Sisters
     image_description:
-  - image_path: /assets/images/4721d676939a3.jpg
-    image_title: 'Woman in Blue, 16cm x 15.5cm'
+  - image_path: /upload/Expectant CrowdA.jpg
+    image_title: The Expectant Crowd
     image_description:
-  - image_path: /assets/images/4721d6ac6a3a8.jpg
-    image_title: 'Woman in Yellow, 16cm x 15.5cm'
+  - image_path: /upload/The MagicianA.jpg
+    image_title: The Magician
     image_description:
-  - image_path: /assets/images/4726470860cd0.jpg
+  - image_path: /upload/On the BallA.jpg
     image_title: 'Woman on the Ball, 20.5cm x 20cm'
     image_description:
   - image_path: /uploads/Reclining Womn2017iP.JPG
