@@ -14,8 +14,11 @@ images:
   - image_path: /uploads/Lost BookiP.JPG
     image_title: Lost Book
     image_description:
-  - image_path: /assets/images/4cb46c5951c1d.jpg
-    image_title: 'Seven Silent Witnesses,    42cmx 54cm'
+  - image_path: /upload/Over Her ShoulderiP.JPG
+    image_title: Over Her Shoulder
+    image_description:
+  - image_path: /upload/ReflectingiP.JPG
+    image_title: Reflecting
     image_description:
   - image_path: /assets/images/48806a3b35be8.jpg
     image_title: 'Hide and Seek,  51cm x 42cm'
@@ -23,13 +26,10 @@ images:
   - image_path: /assets/images/48806525529d8.jpg
     image_title: Chasing Birds
     image_description:
-  - image_path: /upload/Over Her ShoulderiP.JPG
-    image_title: Over Her Shoulder
+  - image_path: /assets/images/4cb46c5951c1d.jpg
+    image_title: 'Seven Silent Witnesses,    42cmx 54cm'
     image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
+  - image_path: /upload/Family Tree iP.JPG
     image_title: Runaways
     image_description:
   - image_path: /assets/images/4881237549143.jpg
