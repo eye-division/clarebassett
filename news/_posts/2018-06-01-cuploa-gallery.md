@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Solo Exhibition 2018
+title: Cuploa Gallery
 date: 2018-06-01 15:21:00
 category: news
 main_image_path:
@@ -17,4 +17,4 @@ _options:
 ---
 
 
-**Cupola Gallery**<br>Sheffield June/July 2018
+**Solo Exhibition**<br>Sheffield June/July 2018
