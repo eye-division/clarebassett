@@ -11,13 +11,13 @@ images:
   - image_path: /upload/Sleeping PartnersiP.JPG
     image_title: Sleeping Partners
     image_description:
-  - image_path:
+  - image_path: /uploads/Lost BookiP.JPG
     image_title:
     image_description:
   - image_path: /assets/images/4cb46c5951c1d.jpg
     image_title: 'Seven Silent Witnesses,    42cmx 54cm'
     image_description:
-  - image_path: /upload/Lookouts 2017A.jpg
+  - image_path:
     image_title: Lookouts
     image_description:
   - image_path: /assets/images/48806a3b35be8.jpg
