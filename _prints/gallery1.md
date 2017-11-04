@@ -35,8 +35,8 @@ images:
   - image_path: /upload/The ArkiP.jpg
     image_title:
     image_description:
-  - image_path: /assets/images/48806525529d8.jpg
-    image_title: Chasing Birds
+  - image_path: /upload/Piggyback.JPG
+    image_title: Piggyback
     image_description:
   - image_path: /assets/images/4cb46c5951c1d.jpg
     image_title: 'Seven Silent Witnesses,    42cmx 54cm'
@@ -50,23 +50,26 @@ images:
   - image_path: /assets/images/4881237549143.jpg
     image_title: 'Hear No Evil, sold out'
     image_description:
-  - image_path:
-    image_title: '?'
+  - image_path: /upload/Last Dance.JPG
+    image_title: Last Dance
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /upload/Young Family.JPG
+    image_title: Young Family
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /upload/BorniP.JPG
+    image_title: Born
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /upload/DevotedA.jpg
+    image_title: Devoted
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /upload/Pre-occupied.JPG
+    image_title: Pre-Occupied
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /upload/The MistiP.JPG
+    image_title: The Mist From Their Eyes
+    image_description:
+  - image_path: /upload/Chasing BirdsA.jpg
+    image_title: Chasing Birds
     image_description:
 _options:
   image_path:
