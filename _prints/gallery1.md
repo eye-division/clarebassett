@@ -24,7 +24,7 @@ images:
     image_title: Mothers
     image_description:
   - image_path: /upload/Family Tree iP.JPG
-    image_title: Runaways
+    image_title: Family Tree
     image_description:
   - image_path: /upload/WalkiesiP.JPG
     image_title: Walkies
@@ -33,7 +33,7 @@ images:
     image_title: Three Wise Girls
     image_description:
   - image_path: /upload/The ArkiP.jpg
-    image_title:
+    image_title: The Ark
     image_description:
   - image_path: /upload/Piggyback.JPG
     image_title: Piggyback
@@ -47,8 +47,8 @@ images:
   - image_path: /assets/images/48806a3b35be8.jpg
     image_title: 'Hide and Seek,  51cm x 42cm'
     image_description:
-  - image_path: /assets/images/4881237549143.jpg
-    image_title: 'Hear No Evil, sold out'
+  - image_path: /upload/Chasing BirdsA.jpg
+    image_title: Chasing Birds
     image_description:
   - image_path: /upload/Last Dance.JPG
     image_title: Last Dance
@@ -68,8 +68,8 @@ images:
   - image_path: /upload/The MistiP.JPG
     image_title: The Mist From Their Eyes
     image_description:
-  - image_path: /upload/Chasing BirdsA.jpg
-    image_title: Chasing Birds
+  - image_path:
+    image_title:
     image_description:
 _options:
   image_path:
