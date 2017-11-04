@@ -17,4 +17,6 @@ _options:
 ---
 
 
+The Affordable Art Fair in Battersea is always exiting and busy. I plan to be there with Four Impressions next spring.
+
 Battersea Park<br>London<br>March, 2018<br>[www.affordableartfair.com](http://ww.affordableartfair.com)
