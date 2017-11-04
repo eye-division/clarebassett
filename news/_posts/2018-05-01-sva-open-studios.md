@@ -3,13 +3,13 @@ layout: post
 title: SVA Open Studios
 date: 2018-05-01 15:21:00
 category: news
-main_image_path:
-image_caption:
+main_image_path: /upload/Open Studio.JPG
+image_caption: Open Studio 2017
 images:
-  - image_path: /upload/Open Studio.JPG
-    description: Open Studio 2017
   - image_path: /upload/Open Studio1.JPG
     description: Open Studio 2017
+  - image_path:
+    description:
 _options:
   main_image_path:
     width: 1200
