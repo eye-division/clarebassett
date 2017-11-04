@@ -9,11 +9,17 @@ images:
   - image_path: /upload/Book Club 2017iP.jpg
     image_title: Book Club
     image_description:
+  - image_path: /uploads/AstrologersA.jpg
+    image_title: Astrologers
+    image_description:
+  - image_path: /upload/Storm ChasersA.jpg
+    image_title: Storm Chasers
+    image_description:
+  - image_path: /upload/Looking for MrA.jpg
+    image_title: Looking for Mr Right
+    image_description:
   - image_path: /SistersA.jpg
     image_title: Sisters
-    image_description:
-  - image_path: /upload/Expectant CrowdA.jpg
-    image_title: The Expectant Crowd
     image_description:
   - image_path: /upload/The MagicianA.jpg
     image_title: The Magician
@@ -24,15 +30,6 @@ images:
   - image_path: /uploads/Reclining Womn2017iP.JPG
     image_title: Reclining Woman
     image_description:
-  - image_path: /upload/Looking for MrA.jpg
-    image_title: Looking for Mr Right
-    image_description:
-  - image_path:
-    image_title: Storm Chasers
-    image_description:
-  - image_path: /uploads/AstrologersA.jpg
-    image_title: Astrologers
-    image_description:
   - image_path: /upload/MaidensA.jpg
     image_title: Maidens Trying Out their Balloons
     image_description:
@@ -41,6 +38,9 @@ images:
     image_description:
   - image_path: /upload/Re Fan A.jpg
     image_title: Red Fan
+    image_description:
+  - image_path: /upload/Expectant CrowdA.jpg
+    image_title: The Expectant Crowd
     image_description:
   - image_path: /upload/Breaking out dotsA.jpg
     image_title: Breaking Out/ Dots
@@ -57,8 +57,8 @@ images:
   - image_path: /upload/TriangleA.jpg
     image_title: Breaking Out/ Triangles
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /uploads/StripesA.jpg
+    image_title: Breaking Out/ Stripes
     image_description:
   - image_path:
     image_title:
