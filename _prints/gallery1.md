@@ -38,7 +38,7 @@ images:
   - image_path: /upload/Piggyback.JPG
     image_title: Piggyback
     image_description:
-  - image_path: /assets/images/4cb46c5951c1d.jpg
+  - image_path: /upload/Seven Silent Witnesses.JPG
     image_title: 'Seven Silent Witnesses,    42cmx 54cm'
     image_description:
   - image_path: /upload/The RunawaysiP.JPG
