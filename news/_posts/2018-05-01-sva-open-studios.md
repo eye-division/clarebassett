@@ -6,8 +6,10 @@ category: news
 main_image_path:
 image_caption:
 images:
-  - image_path:
-    description:
+  - image_path: /upload/Open Studio.JPG
+    description: Open Studio 2017
+  - image_path: /upload/Open Studio1.JPG
+    description: Open Studio 2017
 _options:
   main_image_path:
     width: 1200
