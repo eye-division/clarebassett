@@ -27,7 +27,7 @@ images:
   - image_path: /upload/Looking for MrA.jpg
     image_title: Looking for Mr Right
     image_description:
-  - image_path: /uploads/Storm Chasers.JPG
+  - image_path:
     image_title: Storm Chasers
     image_description:
   - image_path: /uploads/AstrologersA.jpg
@@ -41,15 +41,6 @@ images:
     image_description:
   - image_path: /upload/Re Fan A.jpg
     image_title: Red Fan
-    image_description:
-  - image_path: /assets/images/472648905a6c9.jpg
-    image_title: Fallen Woman 21cm x 20cm
-    image_description:
-  - image_path: /assets/images/472649d9d7bce.jpg
-    image_title: 'Eight Women Who Missed the Boat, 26cm x 29cm'
-    image_description:
-  - image_path: /assets/images/4880a96a5e4a1.jpg
-    image_title: 'Juggling Babies, 30cm x 21cm'
     image_description:
   - image_path: /upload/Breaking out dotsA.jpg
     image_title: Breaking Out/ Dots
@@ -65,6 +56,15 @@ images:
     image_description:
   - image_path: /upload/TriangleA.jpg
     image_title: Breaking Out/ Triangles
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
     image_description:
   - image_path:
     image_title:
