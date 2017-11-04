@@ -19,4 +19,6 @@ _options:
 ---
 
 
+I will be opening my studio in Gloucestershire next May for people to come and see where I work and some of my prints and paintings. Last year's event was a great success. Here are some images.
+
 Hawthorn's Cottage<br>Lower Littleworth<br>Amberley<br>Gloucestershire GL5 5AN<br>May, 2018<br>[www.sva.org.uk](http://www.sva.org.uk)
