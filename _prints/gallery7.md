@@ -32,7 +32,7 @@ description_markdown: >-
 _gallery_date: 2016-05-01 00:00:00
 permalink: /prints/creating-a-print/
 main_image_path: /studio3.JPG
-image_caption: ''
+image_caption: Lithographic Press
 images:
   - image_path: /images/screen2.JPG
     image_title: Silkscreen Press
