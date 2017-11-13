@@ -12,6 +12,9 @@ layout: default
 
         <figure class="">
           {% include img.html src=page.main_image_path alt=page.title %}
+          {% if page.image_caption %}
+            <figcaption>{{ page.image_caption }}</figcaption>
+          {% endif %}
         </figure>
       {% endif %}
 

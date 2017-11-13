@@ -10,5 +10,6 @@
 
 .cms-editor-active .editor-link {
   display: block;
-
+  padding-bottom: 1em;
+  border-bottom: 1px solid $light-gray;
 }
