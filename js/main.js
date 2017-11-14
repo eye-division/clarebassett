@@ -16,15 +16,25 @@
         }
       });
     });
-    
+    // Drop down v2 - Bourbon
+    $(".dropdown-button").click(function() {
+      var $button, $menu;
+      $button = $(this);
+      $menu = $button.siblings(".dropdown-menu");
+      $menu.toggleClass("show-menu");
+      $menu.children("li").click(function() {
+        $menu.removeClass("show-menu");
+        $button.html($(this).html());
+      });
+    });
     // Lightbox2 options
     lightbox.option({
       'wrapAround': true
     });
-    
+
     // fitvid on embed
-    $('.media').fitVids();
-    
+    //$('.media').fitVids();
+
   });
 
 })(jQuery); // End of use strict

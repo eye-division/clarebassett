@@ -1,0 +1,19 @@
+// -----------------------------------------------------------------------------
+// This file contains global styles for Forms - overriding Bourbon defaults
+// -----------------------------------------------------------------------------
+
+input {
+    @include media ($medium) {
+        width: 50%;
+    }
+}
+
+fieldset {
+    background-color: white;
+      border: 1px solid #ccc;
+
+}
+legend {
+    font-size: 1.2rem;
+    font-weight: bold;
+}

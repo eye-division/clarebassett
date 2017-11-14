@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<div class="page">
+
+  <header id="content-header">
+
+      <h2>{{ page.title }}</h2>
+
+  </header>
+
+    <section class="main-content">
+      {{ content }}
+    </section>
+
+
+    {% if page.images[0].image_path %}
+    <section class="gallery">
+      {% for image in page.images %}
+
+        {% if image.image_path %}
+        <div class="gallery-box {% cycle 'alpha', '', 'last' %}">
+        {% include img.html src=image.image_path alt=image.description %}
+        <caption>{{ image.description }}</caption>
+      </div>
+      {% endif %}
+      {% endfor %}
+    </section>
+    {% endif %}
+
+
+</div>

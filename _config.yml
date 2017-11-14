@@ -7,7 +7,7 @@ exclude:
 
 # Site settings
 title: Clare Bassett
-subtitle: Clare Bassett Eye Gallery built on Bourbon and Neat
+subtitle: Clare Bassett
 name: Clare Bassett
 description: Clare Bassett art gallery
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -15,41 +15,56 @@ description: Clare Bassett art gallery
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://www.clarebassett.com"
-logo: "/siteicon.png"
+url: "https://www.clarebassett.com"
+#logo: "/siteicon.png"
 email: clarebassett@aol.com
 
 # Build settings
 markdown: kramdown
-# paginate: 5
-# paginate_path: "/page:num/"
-# inter_post_navigation: false
-permalink: pretty
+paginate: 5
+paginate_path: "/events/page:num/"
+inter_post_navigation: false
+permalink: pretty   # /events/:title
 
 # Image CDN
 imagecdn:
-  #staging: "http://ed-dev.imgix.net"
-  #production: "http://ed.imgix.net"
+  staging: "https://ed-clarebassett-dev.imgix.net"
+  production: "https://ed.clarebasset.imgix.net"
 
-# Collections
+# Collections Example
 collections:
-#     projects:
-#         output: true
-#         permalink: /projects/:path/
-
+    paintings:
+        output: true
+        permalink: /paintings/:path/
+        _hide_content: true
+    prints:
+        output: true
+        permalink: /prints/:path/
+        _hide_content: true
 
 # Defaults Example
 defaults:
-#     -
-#         scope:
-#             path: ""
-#             type: "projects"
-#         values:
-#             layout: "project"
-
+    -
+        scope:
+            path: ""
+            type: "gallery"
+        values:
+            layout: "gallery"
+    -
+        scope:
+            path: ""
+            type: "prints"
+        values:
+            layout: "gallery"
+    -
+        scope:
+            path: ""
+            type: "paintings"
+        values:
+            layout: "gallery"
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "UA-106331626-1"
 
 # Google Recaptcha for contact form
 recaptcha_site_key: 6LdBeisUAAAAAP4AG-EZ6duudsjg5yAMADSdKnKc

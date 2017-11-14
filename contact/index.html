@@ -1,0 +1,44 @@
+---
+layout: page
+title: Contact
+main_image_path:
+image_caption:
+_options:
+  main_image_path:
+    width: 1200
+    height: 1200
+    resize_style: contain
+    mime_type: image/jpeg
+---
+
+
+	<div class="editable"><p>Clare Bassett<br />108 Mountjoy House<br />Barbican<br />London EC2Y 8BP</p></div>
+
+	<form action="/thanks/" method="post" id="contact-form">
+      <fieldset>
+        <legend>Send a message</legend>
+            <input type="hidden" name="_to" value="clarebassett@aol.com" />
+            <input type="hidden" name="_cc" value="a.ward@eyedivision.com" />
+            <input type="hidden" name="_subject" value="Web form" />
+            <p>
+            <label for="name">Name:</label>
+            <input type="text" name="name" />
+            </p>
+            <p>
+            <label for="_replyto">Email:</label>
+            <input type="text" name="_replyto" />
+            </p>
+            <p>
+            <label>Message</label>
+            <textarea name="message"></textarea>
+            </p>
+            {% if site.recaptcha_site_key %}
+            <div class="g-recaptcha" data-sitekey="{{ site.recaptcha_site_key }}"></div>
+            {% endif %}
+        <p>
+            <input type="submit" value="Send message" />
+            </p>
+      </fieldset>
+
+    </form>
+	<p><span class="required">*</span> required</p>

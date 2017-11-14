@@ -1,0 +1,60 @@
+---
+layout: page
+title: Jewellery
+main_image_path:
+image_caption:
+images:
+  - image_path: /upload/Round Earrings3.jpg
+    image_title: round earrings
+    image_description:
+  - image_path: /upload/new round earrings.JPG
+    image_title: round earrings/ sold
+    image_description:
+  - image_path: /upload/necklace.JPG
+    image_title: necklace/ sold
+    image_description:
+  - image_path: /upload/new long earrings.JPG
+    image_title: long earrings/ sold
+    image_description:
+_options:
+  image_path:
+    width: 1200
+    height: 1200
+    resize_style: contain
+    mime_type: image/jpeg
+  main_image_path:
+    width: 1200
+    height: 800
+    resize_style: contain
+    mime_type: image/jpeg
+_comments:
+  title: Gallery title
+  main_image_path: Image used to represent your gallery
+  images: Add and edit your gallery images here
+  image_description: May only be used in the close up of an image
+---
+
+
+	<div class="editable"><p>SIlver is a wonderful material to work with and I have been exploring its properties for the past few years.</p></div>
+
+
+    {% if page.images[0].image_path %}
+    <section class="gallery">
+      {% for image in page.images %}
+        {% if image.image_path %}
+        <div class="gallery-box {% cycle 'alpha', '', 'last' %}">
+            {% include img.html src=image.image_path width=1200 alt=image.image_description %}
+          <caption>{{ image.image_title }}</caption>
+          {% if image.image_description %}
+            <p>{{ image.image_description }}</p>
+          {% endif %}
+        </div>
+        {% endif %}
+      {% endfor %}
+    </section>
+    {% endif %}
+
+	<div class="editor-link">
+     <!-- Editor Link to site status -->
+     <a href="cloudcannon:status">Link to Site Status and Recent Activity</a>
+  </div>

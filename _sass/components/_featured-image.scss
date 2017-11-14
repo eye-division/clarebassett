@@ -1,0 +1,14 @@
+// -----------------------------------------------------------------------------
+// This file contains styles for featured image component
+// -----------------------------------------------------------------------------
+
+.featured--col {
+    @include media ($medium) {
+        @include span-columns(4);
+    }
+}
+.with--feature {
+    @include media ($medium) {
+        @include span-columns(6);
+    }
+}

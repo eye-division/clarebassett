@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<div class="page">
+
+
+  <article>
+
+    <h2>{{ page.title }}</h2>
+    {% if page.main_image_path %}
+
+        <figure class="">
+          {% include img.html src=page.main_image_path alt=page.title %}
+          {% if page.image_caption %}
+            <figcaption>{{ page.image_caption }}</figcaption>
+          {% endif %}
+        </figure>
+      {% endif %}
+
+    {% if page.description_markdown %}
+    <section class="main-content">
+      {{ page.description_markdown | markdownify }}
+    </section>
+    {% endif %}
+
+    {% if page.images[0].image_path %}
+    <section class="gallery">
+      {% for image in page.images %}
+        {% if image.image_path %}
+        <div class="gallery-box {% cycle 'alpha', '', 'last' %}">
+            {% include img.html src=image.image_path width=1200 alt=image.image_description %}
+          <caption>{{ image.image_title }}</caption>
+          {% if image.image_description %}
+            <p>{{ image.image_description }}</p>
+          {% endif %}
+        </div>
+        {% endif %}
+      {% endfor %}
+    </section>
+    {% endif %}
+
+  </article>
+
+</div>
