@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SVA Open Studios
+title: Select Trail
 date: 2018-05-01 15:21:00
 category: news
 main_image_path: /upload/Open Studio.JPG
@@ -18,7 +18,6 @@ _options:
     mime_type: image/jpeg
 ---
 
-
 I will be opening my studio in Gloucestershire next May for people to come and see where I work and some of my prints and paintings. Last year's event was a great success. Here are some images.
 
-Hawthorn's Cottage<br>Lower Littleworth<br>Amberley<br>Gloucestershire GL5 5AN<br>May, 2018<br>[www.sva.org.uk](http://www.sva.org.uk)
+Hawthorn's Cottage<br>Lower Littleworth<br>Amberley<br>Gloucestershire GL5 5AN<br>May, 2018<br>[www.selecttrail.org](http://www.sva.org.uk)
