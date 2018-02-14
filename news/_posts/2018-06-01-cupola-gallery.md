@@ -16,7 +16,6 @@ _options:
     mime_type: image/jpeg
 ---
 
-
-I have been invited by Karen and Graham at the Cupola Gallery in Sheffield, to have a solo exhibition with them in June/ July next year. Looking forward to putting it together.
+I have been invited by Karen and Graham at the Cupola Gallery in Sheffield, to have a solo exhibition with them in June/ July 2018. Looking forward to putting it together.
 
 **Solo Exhibition**<br>Sheffield June/July 2018
