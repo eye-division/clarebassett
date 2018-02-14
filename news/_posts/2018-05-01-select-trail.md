@@ -18,6 +18,6 @@ _options:
     mime_type: image/jpeg
 ---
 
-I will be opening my studio in Gloucestershire next May for people to come and see where I work and some of my prints, paintings and jewellery. Last year's Open Studio was a great success. Here are some images.
+I will be opening my studio in Gloucestershire on 5/6th May and 12/13th May, for people to come and see where I work and some of my prints, paintings and jewellery. Last year's Open Studio was a great success. Here are some images.
 
 Hawthorn's Cottage<br>Lower Littleworth<br>Amberley<br>Gloucestershire GL5 5AN<br>May, 2018<br>[www.selecttrail.org](http://www.sva.org.uk)
