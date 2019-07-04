@@ -1,9 +1,11 @@
-# External gems
-gems:
-  - jekyll-sitemap
+# External gems - updated to plugins in jekyll v3.6
+plugins:
+ # - jekyll-archives # Sorry, not GitHub pages friendly!
+ # - jekyll-assets
+ # - autoprefixer-rails
+   - jekyll-seo-tag
+   - jekyll-sitemap
 
-exclude:
-  - "/vendor/"
 
 # Site settings
 title: Clare Bassett
@@ -21,9 +23,7 @@ email: clarebassett@aol.com
 
 # Build settings
 markdown: kramdown
-paginate: 5
-paginate_path: "/events/page:num/"
-inter_post_navigation: false
+
 permalink: pretty   # /events/:title
 
 # Image CDN
