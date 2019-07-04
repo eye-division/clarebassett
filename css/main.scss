@@ -3,11 +3,15 @@
 ---
 @charset "utf-8";
 
+// holding page css
+@import "holding";
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 // Includes Bourbon, Neat, and Bitters (thanks, thoughtbot!)
-@import
+/*@import
   "bourbon/bourbon",
   "base/base",
   "neat/neat",
   "layout"
 ;
+*/
