@@ -15,7 +15,6 @@ _options:
     resize_style: contain
     mime_type: image/jpeg
 ---
-
-The Affordable Art Fair in Battersea is always exiting and busy. I plan to be there at Stand L2 with 4Impressions March 7th-11th. Come along to explore the many galleries exhibiting or to partake in some of the workshops on offer.
+The Affordable Art Fair in Battersea is always exiting and busy. I have exhibited there for over 20 years and have made a lot of friends &nbsp;and colleagues.
 
 Battersea Park<br>London<br>March, 2018<br>[www.affordableartfair.com](http://ww.affordableartfair.com)
