@@ -4,22 +4,28 @@ description_markdown:
 _gallery_date:
 permalink:
 main_image_path: /uploads/daydreaming-copy.jpg
-image_caption: Horizon
+image_caption: Daydreaming
 images:
   - image_path: /uploads/going-for-a-walk.jpg
     image_title: Going for a Walk
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /uploads/the-visit.jpg
+    image_title: The Visit
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /uploads/in-the-forest.jpg
+    image_title: In the Forest
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /uploads/storeyteller-copy.jpg
+    image_title: Storyteller
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /uploads/me-myself.jpg
+    image_title: Me, Myself
+    image_description:
+  - image_path: /uploads/rendezvous.jpg
+    image_title: Rendezvous
+    image_description:
+  - image_path: /uploads/horizon.jpg
+    image_title: Horizon
     image_description:
 _options:
   image_path:
