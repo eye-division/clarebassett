@@ -6,6 +6,9 @@ permalink:
 main_image_path: /uploads/daydreaming-copy.jpg
 image_caption: Horizon
 images:
+  - image_path: /uploads/going-for-a-walk.jpg
+    image_title: Going for a Walk
+    image_description:
   - image_path:
     image_title:
     image_description:
