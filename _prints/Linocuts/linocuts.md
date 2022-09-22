@@ -21,6 +21,9 @@ images:
   - image_path: /uploads/me-myself.jpg
     image_title: Me, Myself
     image_description:
+  - image_path: /uploads/rendezvous.jpg
+    image_title: Rendezvous
+    image_description:
 _options:
   image_path:
     width: 1200
