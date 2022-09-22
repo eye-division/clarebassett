@@ -12,8 +12,8 @@ images:
   - image_path: /uploads/the-visit.jpg
     image_title: The Visit
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /uploads/in-the-forest.jpg
+    image_title: In the Forest
     image_description:
   - image_path:
     image_title:
