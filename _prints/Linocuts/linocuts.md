@@ -15,8 +15,8 @@ images:
   - image_path: /uploads/in-the-forest.jpg
     image_title: In the Forest
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /uploads/storeyteller-copy.jpg
+    image_title: Storyteller
     image_description:
   - image_path:
     image_title:
