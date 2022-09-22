@@ -9,8 +9,8 @@ images:
   - image_path: /uploads/going-for-a-walk.jpg
     image_title: Going for a Walk
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /uploads/the-visit.jpg
+    image_title: The Visit
     image_description:
   - image_path:
     image_title:
