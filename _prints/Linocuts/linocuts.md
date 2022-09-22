@@ -18,8 +18,8 @@ images:
   - image_path: /uploads/storeyteller-copy.jpg
     image_title: Storyteller
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /uploads/me-myself.jpg
+    image_title: Me, Myself
     image_description:
 _options:
   image_path:
