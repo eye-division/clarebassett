@@ -27,6 +27,12 @@ images:
   - image_path: /uploads/horizon.jpg
     image_title: Horizon
     image_description:
+  - image_path: /uploads/talking-it-over.jpg
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
