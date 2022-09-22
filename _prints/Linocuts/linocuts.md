@@ -4,7 +4,7 @@ description_markdown:
 _gallery_date:
 permalink:
 main_image_path: /uploads/daydreaming-copy.jpg
-image_caption: Horizon
+image_caption: Daydreaming
 images:
   - image_path: /uploads/going-for-a-walk.jpg
     image_title: Going for a Walk
