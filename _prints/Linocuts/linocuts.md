@@ -24,6 +24,9 @@ images:
   - image_path: /uploads/rendezvous.jpg
     image_title: Rendezvous
     image_description:
+  - image_path: /uploads/horizon.jpg
+    image_title: Horizon
+    image_description:
 _options:
   image_path:
     width: 1200
