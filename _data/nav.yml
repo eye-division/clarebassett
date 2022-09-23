@@ -1,37 +1,32 @@
-- title: 'HOME'
+- title: HOME
   href: /
-
-- title: 'PRINTS'
+- title: PRINTS
   href: /prints/
   subcategories:
-    - subtitle: "lithographs"
-      subhref: "/prints/lithographs/"
-    - subtitle: "screenprints"
-      subhref: "/prints/screenprints/"
-    - subtitle: "smaller works"
-      subhref: "/prints/smaller-works/"
-    - subtitle: "creating a print"
-      subhref: "/prints/creating-a-print/"
-
-- title: 'PAINTINGS'
+    - subtitle: lithographs
+      subhref: /prints/lithographs/
+    - subtitle: linocuts
+      subhref: /prints/linocuts/
+    - subtitle: screenprints
+      subhref: /prints/screenprints/
+    - subtitle: smaller works
+      subhref: /prints/smaller-works/
+    - subtitle: creating a print
+      subhref: /prints/creating-a-print/
+- title: PAINTINGS
   href: /paintings/
   subcategories:
-    - subtitle: "figures"
-      subhref: "/paintings/figures/"
-    - subtitle: "dance"
-      subhref: "/paintings/dance/"
-
-- title: 'NEWS'
+    - subtitle: figures
+      subhref: /paintings/figures/
+    - subtitle: dance
+      subhref: /paintings/dance/
+- title: NEWS
   href: /news/
-
-- title: 'EVENTS'
+- title: EVENTS
   href: /events/
-
-- title: 'JEWELLERY'
+- title: JEWELLERY
   href: /jewellery/
-
-- title: 'CV / STATEMENT'
+- title: CV / STATEMENT
   href: /cv/
-
 - title: CONTACT
   href: /contact/
